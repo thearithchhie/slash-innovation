@@ -1,0 +1,121 @@
+/* Mission */
+.main-mission {
+  display: flex;
+  /* align-items: center; */
+  background-color: var(--color-bg-pink);
+  padding: 56px 0px 39px 0px;
+}
+.mission {
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  margin-top: 78px;
+  margin: auto;
+}
+.mission h3 {
+  display: grid;
+  font-weight: bold;
+  font-size: 36px;
+  letter-spacing: -0.02em;
+  line-height: 36px;
+}
+.mission p {
+  margin: 1px 1px 34px 0px;
+}
+.mission-image img {
+  width: 863px;
+  height: 377px;
+  object-fit: cover;
+  margin: 0px 108px 0px -47px;
+  border-radius: 14px;
+}
+
+.mission button {
+  border: 1px solid var(--text-color-blue);
+  padding: 10px 9px 12px 3px;
+  width: 147px;
+  align-items: center;
+  /* margin: auto; button will center */
+  border-radius: 16px;
+  background: none;
+  border-width: revert-layer; /*  add bold style on button */
+  font-weight: bold;
+  color: var(--text-color-blue);
+}
+.mission-style-button {
+  width: 100%;
+  height: 27px;
+}
+
+/* Media Query for Mobile Devices */
+@media (max-width: 480px) {
+  /* Mission */
+  .main-mission {
+    flex-direction: column;
+    align-items: center;
+    margin-top: 15%;
+  }
+  .mission button {
+    margin: auto;
+  }
+
+  .mission-image img {
+    width: 100%;
+    height: 271px;
+    object-fit: cover;
+    margin: 0px 108px 0px -47px;
+    border-radius: 14px;
+    margin: 0;
+    margin-top: 30px;
+  }
+}
+
+/* Media Query for Tablets Ipads portrait mode */
+@media (min-width: 768px) and (max-width: 1024px) {
+  .main-mission {
+    flex-direction: column;
+    margin: auto;
+  }
+  .mission-image {
+    margin: auto;
+    margin-top: 37px;
+  }
+  .mission-image img {
+    object-fit: cover;
+    border-radius: 14px;
+    margin: 0;
+    width: 678px;
+  }
+  .mission h3 {
+    display: block;
+    font-size: 31px;
+  }
+  .mission button {
+    margin: auto;
+  }
+}
+
+/* Media Query for Laptops, Desktops portrait mode */
+@media (min-width: 1025px) and (max-width: 1280px) {
+  .main-mission {
+    flex-direction: column;
+    margin: auto;
+  }
+  .mission-image {
+    margin: auto;
+    margin-top: 37px;
+  }
+  .mission-image img {
+    object-fit: cover;
+    border-radius: 14px;
+    margin: 0;
+    width: 898px;
+  }
+  .mission h3 {
+    display: block;
+    font-size: 31px;
+  }
+  .mission button {
+    margin: auto;
+  }
+}

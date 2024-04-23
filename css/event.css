@@ -1,0 +1,158 @@
+.event {
+  width: 87%;
+  margin: 0px 0px 0px 90px;
+  padding: 0px 0px 0px 16px;
+  /* background-color: green; */
+  box-sizing: border-box;
+  position: relative;
+  margin-bottom: 4%;
+}
+
+.event .event-image {
+  height: 395px;
+  object-fit: fill;
+  box-sizing: border-box;
+  width: 100%;
+  border-radius: 10px;
+}
+
+.event-left-side-image {
+  max-width: 100%;
+  max-width: 100%;
+  height: auto;
+}
+
+.event-tree-title {
+  margin: 0;
+}
+
+/* Left side */
+.event-left-side {
+  background-color: #d50032;
+  width: 500px;
+  padding: 10px;
+  position: absolute;
+  top: 0;
+  border-radius: 8px 0px 0px 8px;
+  height: 93%;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+}
+.event-left-side .event-left-control-box {
+  margin: auto;
+}
+.event-left-side-container {
+  padding-bottom: 16px;
+}
+.event-title {
+  margin: 0;
+  line-height: 16px;
+  font-family: PoppinsRegular;
+}
+
+.event-sub-title {
+  margin: 0;
+  font-size: 16px;
+  font-weight: normal;
+}
+
+.event-tree-title {
+  margin: 0;
+  font-size: 16px;
+  font-weight: normal;
+  padding-bottom: 15px;
+}
+.event-button {
+  border: none;
+  padding: 10px;
+  border-radius: 10px;
+  font-weight: bold;
+  background-color: blue;
+  color: white;
+}
+.event-button:hover {
+  cursor: pointer;
+}
+
+@media (max-width: 480px) {
+  .event {
+    margin-left: 8px;
+    margin-bottom: 4%;
+    /* height: 500px; */
+  }
+  .event-left-side {
+    background-color: #d50032;
+    width: 95%;
+    /* width: 100%;
+    padding: 10px; */
+    position: absolute;
+    top: 44%;
+    border-radius: 9px 0px 8px 8px;
+    height: 257px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+
+    padding: 12px;
+  }
+  .event .event-image {
+    width: 365px;
+    height: 416px;
+    border-radius: 12px;
+  }
+  .event-left-side-image {
+    max-width: 100%;
+    height: auto;
+    /* margin-top: 40px; */
+  }
+}
+
+/* Media Query for Tablets Ipads portrait mode */
+@media (min-width: 768px) and (max-width: 1024px) {
+  .event {
+    width: 90%;
+    margin: 1px 0px 0px 30px;
+    margin-bottom: 4%;
+  }
+  .event-left-side {
+    width: 248px;
+  }
+  .event-title {
+    line-height: 23px;
+    font-size: 16px;
+    font-weight: bold;
+  }
+  .event-sub-title {
+    font-size: 13px;
+    font-weight: 300;
+  }
+  .event-tree-title {
+    font-size: 14px;
+    font-weight: 300;
+  }
+}
+
+/* Media Query for Laptops, Desktops portrait mode */
+@media (min-width: 1025px) and (max-width: 1280px) {
+  .event {
+    width: 89%;
+    margin: 0px 0px 0px 48px;
+    padding: 0px 0px 0px 16px;
+    margin-bottom: 4%;
+  }
+  .event .event-left-side {
+    width: 285px;
+  }
+  .event-title {
+    font-size: 18px;
+  }
+  .event-sub-title {
+    font-size: 14px;
+  }
+  .event-tree-title {
+    font-size: 15px;
+  }
+}

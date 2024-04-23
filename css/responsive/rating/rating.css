@@ -1,0 +1,170 @@
+.inspiration {
+  margin-bottom: 4%;
+}
+.rating {
+  background-color: rgb(249, 249, 253);
+  padding: 10px 10px 29px 10px;
+}
+.rating-avg-image {
+  width: 240px;
+}
+.rating-control {
+  display: flex;
+  align-items: center;
+  margin: 5% 7% 0% 7%;
+}
+
+.rating-box {
+  width: 50%;
+  flex-basis: 0px;
+  /* background-color: red; */
+  /* padding: 10px; */
+  height: 410px;
+  max-height: auto;
+}
+
+.rating-box-image {
+  /* width: 100%; */
+  height: 100%;
+  object-fit: cover;
+  border-radius: 12px;
+  margin-left: -8px;
+}
+
+.rating-avg {
+  text-align: center;
+}
+
+.rating-title {
+  font-size: 21px;
+}
+
+span.rating-star-item {
+  font-size: 30px;
+  color: blue;
+}
+
+.rating-star .rating-item-value {
+  font-weight: bold;
+}
+.rating-avg .rating-avg-title {
+  font-size: 12px;
+}
+
+.rating-avg .rating-avg-button {
+  border: none;
+  padding: 10px 14px 10px 10px;
+  background: none;
+  border: 1px solid gray;
+  border-radius: 13px;
+  border-color: blue;
+}
+.rating-avg-button-title {
+  color: blue;
+  font-weight: bold;
+}
+.rating-avg .rating-avg-button:hover {
+  cursor: pointer;
+}
+
+.rating-style-bg {
+  width: 100%;
+  height: 40px;
+}
+
+.rating-sub-description {
+  display: block;
+}
+
+/* Media Query for Tablets Ipads portrait mode */
+@media (min-width: 768px) and (max-width: 1024px) {
+  .rating-box {
+    height: 300px;
+    padding: 10px;
+    height: 225px;
+    /* background-color: rebeccapurple; */
+  }
+  .rating-avg {
+    font-size: 14px;
+    margin-left: 11px;
+  }
+  .rating-avg-image {
+    width: 114px;
+  }
+  .rating-title {
+    font-size: 19px;
+    margin: 0;
+  }
+  .rating-avg .rating-avg-title {
+    font-size: 11px;
+  }
+
+  .rating-sub-description {
+    display: none;
+  }
+  .rating-star-item {
+    font-size: 22px;
+    font-weight: bold;
+  }
+
+  .rating-avg .rating-avg-title {
+    margin: 0;
+    margin-bottom: 10px;
+  }
+}
+/* Media Query for Mobile Devices */
+@media only screen and (max-width: 480px) {
+  .rating-control {
+    flex-direction: column;
+  }
+  .rating-box {
+    width: 103%;
+  }
+  .rating-box-image {
+    width: 104%;
+  }
+
+  /*  */
+  /* .rating-avg {
+    background-color: rebeccapurple;
+  } */
+  .rating-avg-image {
+    margin-top: 21%;
+  }
+  .rating-title {
+    font-size: 25px;
+  }
+  .rating-sub-description {
+    display: none;
+  }
+}
+
+/* Media Query for Laptops, Desktops portrait mode */
+@media (min-width: 1025px) and (max-width: 1280px) {
+  .rating-box {
+    height: 300px;
+    padding: 10px;
+  }
+  .rating-box-image {
+    margin-left: -16px;
+  }
+  .rating-title {
+    margin: 0;
+  }
+
+  .rating-description {
+    font-size: 14px;
+    margin: 0;
+  }
+
+  .rating-avg-image {
+    width: 202px;
+  }
+  .rating-avg .rating-avg-title {
+    margin: 0;
+  }
+
+  .rating-sub-description {
+    display: block;
+  }
+}

@@ -1,0 +1,103 @@
+.chosen {
+  margin-top: 4%;
+  background-color: var(--color-yellow);
+}
+.chosen .chosen-control {
+  display: flex;
+  padding: 6% 0% 3% 7%;
+  width: 86%;
+}
+
+.chosen .chosen-control .chosen-control-box-1 {
+  /* background-color: red; */
+  padding: 1%;
+  width: 70%;
+}
+/*  */
+
+.chosen-control-box-2 {
+  width: 100%;
+  /* background-color: blue; */
+  padding: 10px;
+}
+.chosen-control-box-2 .chosen-box-2-image {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  height: 375px;
+  border-radius: 17px;
+}
+
+/* input box */
+.chosen-main-input {
+  position: relative;
+}
+.chosen-main-input .chosen-input {
+  /* padding: 5% 4% 4% 13%; */
+  padding: 16px 64px 20px 19px;
+  border-radius: 20px;
+  border: 1px solid gray;
+}
+.chosen-main-input input[type="text"]::placeholder {
+  text-align: left;
+  /* font-size: 20px; */
+}
+
+.chosen-main-input .chosen-link-control {
+  position: absolute;
+  top: 50%;
+  left: 44%;
+  transform: translate(-50%, -50%);
+}
+.chosen-button {
+  border: none;
+  border-radius: 7px;
+  text-align: center;
+  padding: 9px 7px 10px 7px;
+  background-color: var(--text-color-blue);
+  color: var(--text-color-white);
+}
+.chosen-button:hover {
+  cursor: pointer;
+}
+
+/* Media Query for Mobile Devices */
+@media only screen and (max-width: 480px) {
+  .chosen .chosen-control {
+    padding: 6% 0% 3% 6%;
+  }
+  .chosen-main-input .chosen-input {
+    width: 75%;
+  }
+  .chosen-main-input .chosen-link-control {
+    left: 82%;
+  }
+  .chosen .chosen-control .chosen-control-box-1 {
+    width: 100%;
+    /* background-color: red; */
+  }
+  .chosen-control {
+    flex-direction: column;
+  }
+
+  .chosen-box-2-image {
+    display: none;
+  }
+}
+
+/* Media Query for Tablets Ipads portrait mode */
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  .chosen-main-input .chosen-link-control {
+    left: 76%;
+  }
+}
+
+/* Media Query for Laptops, Desktops portrait mode */
+@media only screen and (min-width: 1025px) and (max-width: 1280px) {
+  .chosen-control-box-1-title {
+    font-size: 19px;
+  }
+  .chosen-main-input .chosen-link-control {
+    left: 65%;
+  }
+}
