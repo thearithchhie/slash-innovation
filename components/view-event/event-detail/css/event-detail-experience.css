@@ -1,0 +1,51 @@
+.event-detail-experience-control{
+    margin: auto;
+    background: var(--text-color-white);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 5%;
+}
+
+.event-detail-experience-image-control {
+    width: 100px;
+    height: 100px;
+}
+
+.event-detail-experience-image-control
+.event-detail-experience-image-item {
+    width: 100%;
+    height: 100%;
+}
+
+.event-detail-experience-control
+.event-detail-experience-title {
+    line-height: 34px;
+    font-size: 22px;
+    font-weight: 900;
+    letter-spacing: -0.02em;
+}
+.event-detail-experience-sub-1 {
+    line-height: 28px;
+}
+.event-detail-experience-sub-1,
+.event-detail-experience-sub-2,
+.event-detail-experience-sub-3
+{
+    margin: 0;
+}
+.event-detail-experience-sub-2 {
+    background-color: var(--text-color-blue);
+    color: var(--text-color-white);
+}
+.event-detail-experience-sub-3 {
+    font-weight: normal;
+    font-size: 14px;
+}
+.event-detail-experience-sub-1 { 
+    font-size: 28px;
+    font-weight: bold;
+    letter-spacing: -0.02em;
+    font-weight: 900;
+    font-family: PoppinsMedium;
+}

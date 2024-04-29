@@ -1,3 +1,0 @@
-const ACTION = {
-  CLICK: "click",
-};

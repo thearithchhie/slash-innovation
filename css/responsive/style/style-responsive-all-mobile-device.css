@@ -28,6 +28,7 @@
 
   .popup-menu-control-box {
     margin-left: 19px;
+    display: none;
   }
 
   .popup-menu {

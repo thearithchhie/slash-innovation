@@ -1,0 +1,295 @@
+.view-event-search-list {
+  padding: 0;
+}
+.search-control {
+  display: flex;
+  flex-direction: column;
+}
+.view-event-search-total {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.view-event-search-total .search-total-title {
+  font-weight: bold;
+}
+.view-event-button-sorting {
+  display: flex;
+  gap: 1px;
+  border: 1px solid gray;
+  background: none;
+  border-radius: 10px;
+  padding: 10px 38px 13px 25px;
+  font-weight: bold;
+}
+.view-event-button-sorting:hover {
+  background-color: var(--color-secondary-pink);
+  opacity: 0.4;
+  cursor: pointer;
+  color: var(--text-color-black);
+}
+.view-event-image-sorting {
+  width: 17px;
+  height: 17px;
+  margin-left: 14px;
+}
+/* Search */
+.view-event-search-input {
+  width: 87%;
+  padding: 10;
+  padding: 12px 32px 12px 40px;
+  border-radius: 10px;
+  border: 1px solid gray;
+}
+.view-event-search-input-control {
+  margin-top: 10%;
+  position: relative;
+  margin-left: 5%;
+}
+.view-event-search-input-control .view-event-search-icon {
+  position: absolute;
+  top: 18%;
+  left: 93%;
+  /* transform: translateY(50%, -50%); */
+  font-size: 20px;
+}
+.view-event-search-hr {
+  margin-top: 10px;
+}
+
+/* Fitter search */
+.view-event-search-control-item {
+  display: flex;
+  padding: 10px;
+}
+/* Li */
+.view-event-search-control li {
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+  padding: 10px;
+}
+.view-event-search-control li:hover {
+  background-color: var(--color-bg-search-filter);
+  cursor: pointer;
+}
+
+.view-event-search-control .view-event-search-image {
+  width: 40%;
+  height: 210px;
+  border-radius: 17px;
+}
+
+/* View event favorite  */
+.view-event-control-content-favorite {
+  display: flex;
+}
+.view-event-search-icon-favorite {
+  margin-left: 120px;
+}
+.view-event-favorite-heart {
+  padding: 10px;
+  background-color: white;
+  border-radius: 11px;
+}
+.search-title,.country-title-code, .search-event-control-title {
+  margin: 0;
+  padding: 0;
+}
+.search-title {
+  font-weight: 450;
+  font-size: 14px;
+}
+.country-title-code, .search-event-control-title {
+  font-size: 13px;
+  font-weight: normal;
+}
+.view-event-search-title {
+  padding: 10px;
+}
+.view-event-search-title-main-control {
+  display: flex;
+  flex-direction: column;
+}
+
+.search-location-control,.search-event-control {
+  display: flex;
+  gap: 6px;
+  align-items: center;
+  }
+
+/* View event Booking */
+.view-event-booking-button {
+  border: 1px solid gray;
+  padding: 10px;
+  background: none;
+  font-weight: 500;
+  border-radius: 10px;
+}
+.view-event-booking-button:hover {
+  cursor: pointer;
+}
+
+/* Map */
+.view-event-map-iframe {
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+/* Styles for small devices (e.g., iPhone 5) */
+@media only screen and (max-width: 320px) {
+  /* Styles specific to small devices */
+}
+
+/* Styles for medium-sized devices (e.g., iPhone 6/7/8) */
+@media only screen and (min-width: 321px) and (max-width: 768px) {
+  /* Styles specific to medium-sized devices */
+}
+
+/* Old */
+/* Media Query for Mobile Devices */
+@media only screen and (max-width: 480px) {
+  .view-event-search-input-control .view-event-search-icon {
+    left: 86%;
+    top: 26%;
+  }
+  .view-event-search-input-control {
+    margin-top: 4%;
+  }
+  .view-event-search-input {
+    width: 76%;
+    padding: 12px 34px 17px 41px;
+  }
+
+  /*  */
+  .view-event-search-control-item {
+    flex-direction: column;
+  }
+  .view-event-search-control .view-event-search-image {
+    width: 100%;
+    height: 150px;
+    border-radius: 10px;
+    object-fit: cover;
+  }
+  .view-event-search-control {
+    width: 100%;
+  }
+  .view-event-control-content-favorite {
+    flex-direction: column;
+  }
+  .view-event-search-control li {
+    position: relative;
+  }
+  .view-event-favorite-heart {
+    position: absolute;
+    top: 10%;
+    right: 10%;
+  }
+  .view-event-search-total {
+    margin-left: 4%;
+    margin-right: 4%;
+  }
+  .view-event-button-sorting {
+    margin-right: 1%;
+  }
+}
+
+/* Media Query for low resolution  Tablets, Ipads */
+@media only screen and (min-width: 481px) and (max-width: 767px) {
+  .view-event-search-input-control .view-event-search-icon {
+    left: 86%;
+    top: 26%;
+  }
+  .view-event-search-input-control {
+    margin-top: 4%;
+  }
+  .view-event-search-input {
+    width: 76%;
+    padding: 12px 34px 17px 41px;
+  }
+
+  /*  */
+  .view-event-search-control-item {
+    flex-direction: column;
+  }
+  .view-event-search-control .view-event-search-image {
+    width: 100%;
+    height: 150px;
+    border-radius: 10px;
+    object-fit: cover;
+  }
+  .view-event-search-control {
+    width: 100%;
+  }
+  .view-event-control-content-favorite {
+    flex-direction: column;
+  }
+  .view-event-search-control li {
+    position: relative;
+  }
+  .view-event-favorite-heart {
+    position: absolute;
+    top: 10%;
+    right: 10%;
+  }
+  .view-event-search-total {
+    margin-left: 4%;
+    margin-right: 4%;
+  }
+  .view-event-button-sorting {
+    margin-right: 1%;
+  }
+}
+
+/* Media Query for Tablets Ipads portrait mode */
+@media only screen and (min-width: 768px) and (max-width: 1024px)  {
+  /* Filter event */
+  .view-event-search-input {
+    width: 80%;
+    padding: 13px 32px 12px 41px;
+  }
+  .view-event-search-input-control .view-event-search-icon { 
+    top: 25%;
+    left: 89%;
+    font-size: 15px;
+  }
+  /* End Filter event */
+
+  /*  */
+  .view-event-search-control-item {
+    padding: 0;
+  }
+  .view-event-search-control .view-event-search-image {
+    height: 174px;
+  }
+  .view-event-search-icon-favorite {
+    margin-left: 65px;
+  }
+  .view-event-booking-button {
+    font-size: 11px;
+    padding: 5px;
+  }
+  .search-date, .view-event-map-marker {
+    font-size: 12px;
+  }
+  .view-event-popup-sort-button-apply {
+    margin-left: 0;
+    float: right;
+  }
+}
+
+/* Media Query for Laptops, Desktops portrait mode */
+@media only screen and (min-width: 1025px) and (max-width: 1280px) {
+  
+  /* Filter input */
+  .view-event-search-input {
+    width: 85%;
+  }
+
+  .view-event-popup-sort-button-apply {
+    margin-left: 0;
+    float: right;
+  }
+}
+

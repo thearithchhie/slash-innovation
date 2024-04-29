@@ -1,0 +1,71 @@
+.event-detail-by-event-main {
+    margin-top: 3%;
+}
+.event-detail-by-event-control {
+    display: flex;
+    justify-content: space-between;
+    max-width: 901px;
+    margin: auto;
+    padding: 29px;
+}
+.event-detail-by-event-control
+.event-detail-by-event-item-control {
+    padding: 10px;
+}
+
+.event-detail-by-event-control
+.event-detail-by-event-item-control
+.event-detail-by-event-icon-event-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.event-detail-by-event-title, .event-detail-by-event-sub-title {
+    font-size: 14px;
+    line-height: 26px;
+}
+.event-detail-by-event-control
+.event-detail-by-event-item-control
+.event-detail-by-event-icon-event-item
+.event-detail-by-event-title {
+    font-weight: 600;
+}
+.event-detail-by-event-all-icon {
+   font-size: 26px;
+}
+.event-detail-by-event-image-bg {
+    width: 100%;
+    height: 35px;
+}
+
+
+/* Styles for small devices (e.g., iPhone 5) */
+@media only screen and (max-width: 320px) {
+    /* Styles specific to small devices */
+  }
+  
+  /* Styles for medium-sized devices (e.g., iPhone 6/7/8) */
+  @media only screen and (min-width: 321px) and (max-width: 768px) {
+    /* Styles specific to medium-sized devices */
+  }
+  
+  /* Old */
+  /* Media Query for Mobile Devices */
+  @media only screen and (max-width: 480px) {
+  }
+  
+  /* Media Query for low resolution  Tablets, Ipads */
+  @media only screen and (min-width: 481px) and (max-width: 767px) {
+  }
+  
+  /* Media Query for Tablets Ipads portrait mode */
+  @media only screen and (min-width: 768px) and (max-width: 1024px) {
+    .event-detail-by-event-control .event-detail-by-event-item-control .event-detail-by-event-icon-event-item .event-detail-by-event-title {
+        font-size: 11px;
+    }
+  }
+  
+  /* Media Query for Laptops, Desktops portrait mode */
+  @media only screen and (min-width: 1025px) and (max-width: 1280px) {
+  }
+  

@@ -4,6 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>letsdothis</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
     <link rel="stylesheet" href="./css/responsive/style/style.css" />
     <link
       rel="stylesheet"
@@ -53,7 +54,9 @@
     <section class="menu-top">
       <div class="menu">
         <div>
-          <img src="./assets/logo.webp" alt="logo" class="logo" />
+          <a href="/">
+            <img src="./assets/logo.webp" alt="logo" class="logo" />
+          </a>
         </div>
         <div class="menu-fluid">
           <!-- Navbar -->
@@ -77,14 +80,14 @@
               <button>
                 <div class="profile-selected">
                   <img
-                    src="./assets/Profile_Selected.jpg"
+                    src="./assets/images/Profile_Selected.jpg"
                     alt="Profile Selected"
                   />
                 </div>
               </button>
 
               <div class="dropdown-content-profile">
-                <a href="#">Login</a>
+                <a href="./components/login/login.html">Login</a>
                 <a href="#">Register</a>
               </div>
               <div class="profile-arrow-down">
@@ -101,7 +104,7 @@
         <div class="moment-make-us">
           <div class="moment-tape-blue">
             <span>
-              <img src="./assets/tape-blue.webp" />
+              <img src="./assets/images/tape-blue.webp" />
             </span>
           </div>
           <div class="moment-make-us-paragraph">Make us</div>
@@ -121,7 +124,7 @@
 
     <section>
       <div class="volt-img">
-        <img src="./assets/TEX-01-L_VOLT.webp" alt="" srcset="" />
+        <img src="./assets/images/TEX-01-L_VOLT.webp" alt="" srcset="" />
       </div>
     </section>
 
@@ -303,7 +306,7 @@
           </div>
         </div>
         <div class="card-view-event">
-          <button><p>View all events</p></button>
+          <button onclick="viewEvent()"><p>View all events</p></button>
         </div>
       </div>
     </section>
@@ -646,7 +649,6 @@
                       class="slide-image-location"
                       src="./assets/icons/location.png"
                       alt=""
-                      srcset=""
                     />
                     <h4 class="slide-content-title">Remond</h4>
                     <!--  <p class="slide-content-sub-title"> 20$</p> -->
@@ -657,7 +659,6 @@
                         class="slide-image-ticket"
                         src="./assets/icons/ticket.png"
                         alt=""
-                        srcset=""
                       />
                     </div>
                     <div class="slide-ticket-description">
@@ -671,7 +672,6 @@
                       class="slide-heart-image-icon"
                       src="./assets/icons/heart.png"
                       alt=""
-                      srcset=""
                     />
                   </div>
                 </div>
@@ -1236,7 +1236,6 @@
         </div>
       </div>
     </footer>
-
     <script src="./script/index.js"></script>
     <script src="./script/popular.js" defer></script>
     <script src="./script/footer.js"></script>

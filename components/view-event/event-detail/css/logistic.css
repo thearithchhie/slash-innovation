@@ -1,0 +1,13 @@
+.event-detail-logistic-control {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 4%;
+    width: 40%;
+    margin: auto;
+}
+
+.event-detail-logistic-control
+.event-detail-logistic-title {
+    font-weight: 900;
+}
