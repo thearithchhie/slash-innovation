@@ -11,3 +11,45 @@
 .event-detail-logistic-title {
     font-weight: 900;
 }
+
+
+/* Styles for small devices (e.g., iPhone 5) */
+@media only screen and (max-width: 320px) {
+    /* Styles specific to small devices */
+    .event-detail-logistic-sub-title {
+        font-size: 14px;
+    }
+    .event-detail-logistic-control {
+        width: 90%;
+    }
+  }
+  
+  /* Styles for medium-sized devices (e.g., iPhone 6/7/8) */
+  @media only screen and (min-width: 321px) and (max-width: 768px) {
+    /* Styles specific to medium-sized devices */
+    .event-detail-logistic-sub-title {
+        font-size: 14px;
+    }
+    .event-detail-logistic-control {
+        width: 90%;
+    }
+  }
+  
+  /* Old */
+  /* Media Query for Mobile Devices */
+  @media only screen and (max-width: 480px) {
+    .event-detail-logistic-control {
+        width: 90%;
+    }
+    .event-detail-logistic-sub-title {
+        font-size: 14px;
+    }
+  }
+  
+
+/* Media Query for low resolution  Tablets, Ipads */
+@media only screen and (min-width: 481px) and (max-width: 767px) {
+    .event-detail-logistic-control {
+        width: 90%;
+    }
+}

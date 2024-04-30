@@ -37,10 +37,16 @@
   /* Old */
   /* Media Query for Mobile Devices */
   @media only screen and (max-width: 480px) {
+    .event-detail-route-info-content-title {
+        font-size: 14px;
+    }
   }
   
   /* Media Query for low resolution  Tablets, Ipads */
   @media only screen and (min-width: 481px) and (max-width: 767px) {
+    .event-detail-route-info-content-title {
+        font-size: 14px;
+    }
   }
   
   /* Media Query for Tablets Ipads portrait mode */

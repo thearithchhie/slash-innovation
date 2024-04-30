@@ -70,10 +70,35 @@
   /* Old */
   /* Media Query for Mobile Devices */
   @media only screen and (max-width: 480px) {
+    .event-detail-card-control .event-detail-card-box-item-image-control {
+        height: 150px;
+    }
+    .event-detail-card-box-title {
+        font-size: 13px;
+    }
+    .event-detail-card-box-star-control {
+        align-items: center;
+    }
+    .event-detail-card-box-content-control {
+        display: flex;
+    }
   }
   
   /* Media Query for low resolution  Tablets, Ipads */
   @media only screen and (min-width: 481px) and (max-width: 767px) {
+    .event-detail-card-control .event-detail-card-box-item-image-control {
+        height: 150px;
+    }
+    .event-detail-card-box-title {
+        font-size: 13px;
+    }
+
+    .event-detail-card-box-content-control {
+        display: flex;
+    }
+    .event-detail-card-box-star-control {
+        align-items: center;
+    }
   }
   
   /* Media Query for Tablets Ipads portrait mode */

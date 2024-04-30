@@ -31,10 +31,26 @@
   /* Old */
   /* Media Query for Mobile Devices */
   @media only screen and (max-width: 480px) {
+    .event-detail-about-control {
+        width: 100%;
+        text-align: justify;
+    }
+    .event-detail-about-control .event-detail-about-title {
+        text-align: center;
+    }
+    .event-detail-about-control .event-detail-about-description {
+        font-size: 13px;
+    }
   }
   
   /* Media Query for low resolution  Tablets, Ipads */
   @media only screen and (min-width: 481px) and (max-width: 767px) {
+    .event-detail-about-control {
+        width: 100%;
+    }
+    .event-detail-about-description {
+        font-size: 12px;
+    }
   }
   
   /* Media Query for Tablets Ipads portrait mode */

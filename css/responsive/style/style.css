@@ -464,10 +464,12 @@ hr {
 
 /* Media Query for low resolution  Tablets, Ipads */
 @media (min-width: 481px) and (max-width: 767px) {
-  /* .card-button-slide {
-    display: flex;
-    align-items: center;
-  } */
+  .menu-fluid ul li {
+    padding: 2px;
+  }
+  .service-benefit .service-benefit-list ul {
+    flex-direction: column;
+  }
 }
 
 /* Media Query for Tablets Ipads portrait mode */

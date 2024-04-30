@@ -239,21 +239,116 @@
 
 /* Styles for small devices (e.g., iPhone 5) */
 @media only screen and (max-width: 320px) {
-    /* Styles specific to small devices */
+    .event-detail-include-benefit-list-control {
+        font-size: 13px;
+    }
+    .event-detail-traditional-title,
+    .event-detail-traditional-sub-title {
+        font-size: 14px;
+    }
+    .event-detail-menu-main-list .event-detail-menu-list-control {
+        font-size: 11px;
+    }
   }
   
   /* Styles for medium-sized devices (e.g., iPhone 6/7/8) */
   @media only screen and (min-width: 321px) and (max-width: 768px) {
-    /* Styles specific to medium-sized devices */
+    .event-detail-menu-main-list .event-detail-menu-list-control {
+        font-size: 11px;
+    }
+    .event-detail-include-benefit-list-control {
+        font-size: 13px;
+    }
+    .event-detail-traditional-title,
+    .event-detail-traditional-sub-title {
+        font-size: 14px;
+    }
   }
   
   /* Old */
   /* Media Query for Mobile Devices */
   @media only screen and (max-width: 480px) {
+    .event-detail-menu-main-list .event-detail-menu-list-control {
+        margin-left: 0;
+        font-size: 12px;
+    }
+    .event-detail-content-title {
+        font-size: 20px;
+    }
+    .event-detail-slide-control {
+        grid-template-columns: auto 50% 0;
+    }
+    .event-detail-slide-control-item {
+        height: 170px;
+    }
+    .event-detail-slide-logo-link {
+        display: none;
+    }
+    .event-detail-slide-button-camera {
+        display: none;
+    }
+    .event-detail-slide-social-control {
+        margin-left: 95%;
+        margin-top: 2%;
+    }
+    .event-detail-traditional-control {
+        width: 90%;
+    }
+    .event-detail-traditional-title,
+    .event-detail-traditional-sub-title {
+        font-size: 14px;
+    }
+    
   }
   
   /* Media Query for low resolution  Tablets, Ipads */
   @media only screen and (min-width: 481px) and (max-width: 767px) {
+    .event-detail-menu-main-list .event-detail-menu-list-control {
+        margin-left: 0;
+    }
+    .event-detail-menu-main-list .event-detail-menu-list-control {
+        font-size: 12px;
+    }
+    .event-detail-content-title {
+        font-size: 20px;
+    }
+    .event-detail-apply-service .event-detail-apply-service-control .event-detail-apply-service-button {
+        padding: 9% 20% 13% 31%;
+        font-size: 12px;
+    }
+    .event-detail-apply-service .event-detail-apply-service-control .event-detail-apply-service-title {
+        font-size: 15px;
+    }
+    /* Remove 1 slide */
+    .event-detail-slide-control-item {
+        height: 250px;
+    }
+    .event-detail-slide-control  {
+        grid-template-columns: 0% 50% auto;
+    }
+    .event-detail-slide-social-main-media {
+        top: calc(100% - (94%));
+        right: 13%;
+    }
+    .event-detail-slide-logo-link {
+        width: 8%;
+        margin-left: -1%;
+        padding: 10px;
+    }
+    .event-detail-slide-button-camera {
+        display: none;
+    }
+    .event-detail-include-benefit-list-control {
+        font-size: 13px;
+    }
+    .event-detail-traditional-control {
+        width: 90%;
+    }
+    .event-detail-traditional-title,
+    .event-detail-traditional-sub-title {
+        font-size: 14px;
+    }
+
   }
   
   /* Media Query for Tablets Ipads portrait mode */
@@ -277,6 +372,7 @@
     }
     .event-detail-slide-social-control {
         margin-right: 50%;
+        margin-top: 7%;
     }
     .event-detail-slide-button-camera {
         display: none;

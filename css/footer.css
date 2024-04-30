@@ -151,6 +151,9 @@
 
 /* Media Query for low resolution  Tablets, Ipads */
 @media (min-width: 481px) and (max-width: 767px) {
+  .footer-box-1-control {
+    flex-direction: column;
+  }
   .footer-box-3-social {
     width: 18px;
     height: 18px;

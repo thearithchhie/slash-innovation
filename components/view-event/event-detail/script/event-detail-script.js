@@ -97,7 +97,7 @@ byEvent.innerHTML = htmlByEvent;
 
 
 // Event detail card
-const cards = [
+let cards = [
     {
         image: "../../../assets/event/event-detail/card-image/image-card-box-1.webp",
         title: "Battersea Park Running Festival - November 2024",
@@ -124,7 +124,29 @@ const cards = [
         subTitle: "Sat, 23 Nov 2024 - London"
     }
 ];
-const cardControl = document.getElementsByClassName("event-detail-card-control")[0];
+const screen768 = cards.slice(0,3);
+const screen1025 = cards.slice(0,4);
+const screenEnd = cards.slice(0,5);
+
+
+getCard(cards);
+window.addEventListener("resize", getCard);
+
+function getCard (cards) {
+    const cardControl = document.getElementsByClassName("event-detail-card-control")[0];
+    let width = document.body.clientWidth;
+    let height = document.body.clientHeight;
+    console.log({width, height})
+    console.log(screen.width == 1025 && height >= 1280);
+    /* Media Query for Tablets Ipads portrait mode */
+    if(width <= 768 && height >= 1024) {
+        cards = screen768;
+    /* Media Query for Laptops, Desktops portrait mode */
+    }else if(screen.width == 1025 && height >= 1280) {
+        cards = screen1025;
+    }else {
+        cards = screenEnd;
+    }
 let htmlCard = "";
 for (let index = 0; index < cards.length; index++) {
     const card = cards[index];
@@ -143,7 +165,7 @@ for (let index = 0; index < cards.length; index++) {
                                 htmlCard+="<div class='event-detail-card-box-star-item'>";
                                     htmlCard+="<i class='fa fa-star' aria-hidden='true'></i>";
                                     htmlCard+="</div>";
-                                htmlCard+="<div>";
+                                htmlCard+="<div class='event-detail-card-box-content-control'>";
                                     htmlCard+="<h5 class='event-detail-card-box-title'>4.0</h5>";
                                     htmlCard+="<h6 class='event-detail-card-box-sub-title'>(12)</h6>";
                                 htmlCard+="</div>";
@@ -157,4 +179,5 @@ for (let index = 0; index < cards.length; index++) {
     
 }
 cardControl.innerHTML = htmlCard;
+}
 // End event detail card
