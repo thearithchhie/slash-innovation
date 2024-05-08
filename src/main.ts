@@ -1,9 +1,8 @@
 import { createApp } from 'vue'
 import './style.css';
 import App from './App.vue';
-// import Vue from 'vue';
-// import VueSpinners from 'vue-spinners'
+import router from './routes';
 
 const app = createApp(App);
-// app.use(VueSpinners);
+app.use(router)
 app.mount('#app')
