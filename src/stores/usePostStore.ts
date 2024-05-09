@@ -1,4 +1,3 @@
-/* eslint-disable no-empty */
 import { defineStore } from 'pinia';
 // import axios from "axios";
 import httpClient from '../utils/http-client';
@@ -6,7 +5,12 @@ import httpClient from '../utils/http-client';
 export const usePostStore = defineStore('usePostStore',  {
     state: () => ({
         _posts: [],
-        _post: {},
+        _post: {
+            id: 0,
+            title: '',
+            body: '',
+            userId: 0,
+        },
     }),
 
     getters: {
@@ -15,8 +19,13 @@ export const usePostStore = defineStore('usePostStore',  {
     },
     actions: {
         async findPosts() {
-            const data: any = await httpClient.get('posts');
+            const data = await httpClient.get('posts');
             this._posts = data.data;
+        },
+
+        async findPost(id: number) {
+            const data = await httpClient.get(`posts/${id}`);
+            this._post = data.data;
         },
     }
 });

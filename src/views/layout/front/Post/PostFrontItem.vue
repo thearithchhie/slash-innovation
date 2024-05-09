@@ -1,13 +1,14 @@
 
 <template>
-  <div>
+
     <!-- <p>{{ isLoading ? "<p>Loading..</p>" : "" }}</p> -->
-       <div>
-        <ul v-for="(post, index) in datas" :key="index">
+        <div>
+          <ul v-for="(post, index) in datas" :key="index">
         <li  @click="getPostId(post.id)">{{ post.title }}</li>
         </ul>
-       </div>
-  </div>
+        </div>
+ 
+ 
 </template>
 
 <script setup lang="ts">

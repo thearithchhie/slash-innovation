@@ -5,10 +5,12 @@ import {RouterView, useRoute} from 'vue-router';
 import AdminLayout from "@/views/layout/admin/AdminLayout.vue";
 import AdminHome from "@/views/layout/admin/Home/AdminHome.vue";
 import AdminAbout from "@/views/layout/admin/About/About.vue";
+import AdminUser from '@/views/layout/admin/user/AdminUser.vue';
 // front 
 import FrontLayout from "@/views/layout/front/FrontLayout.vue";
 import Home from "@/views/layout/front/Home/Home.vue";
 import PostFrontIndex from "@/views/layout/front/Post/PostFrontIndex.vue";
+import PostFrontDetail from '@/views/layout/front/Post/PostFrontDetail.vue';
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -28,9 +30,19 @@ const router = createRouter({
               component: Home
             },
             {
-              path: 'post',
-              name: 'front.post',
-              component: PostFrontIndex
+              path: '',
+              children: [
+                {
+                  path: 'post',
+                  name: 'front.post',
+                  component: PostFrontIndex
+                },
+                {
+                  path: 'post/:id',
+                  name: 'front.post.id',
+                  component: PostFrontDetail
+                }
+              ]
             },
           ]
         },
@@ -50,7 +62,7 @@ const router = createRouter({
                 {
                   path: "",
                   name: "admin.users.index",
-                  component: AdminAbout
+                  component: AdminUser
                 },
               ]
             }

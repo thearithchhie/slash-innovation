@@ -3,8 +3,10 @@
 
 
 <template>
-    <h3>List all post</h3>
+    <div>
+        <h3>List all post</h3>
     <PostFrontItem :datas="posts" @getPostId="getPostId" />
+    </div>
 </template>
 
 <script setup lang="ts">
@@ -22,15 +24,12 @@ async function fetchAllPost() {
     posts.value = postStore.getPosts;
 }
 onMounted(async () => {
-    console.log("onMounted");
     await fetchAllPost();
 });
 
 
 const getPostId = async (id: number) => {
-    console.log(id);
-  router.push({name: 'post', params: {id}});
+  router.push({name: 'front.post.id', params: {id}});
 };
-
 
 </script>
