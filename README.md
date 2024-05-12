@@ -276,8 +276,6 @@ int main()
 
 ```
 # Fish
-![photo_2024-05-11_14-34-09](https://github.com/thearithchhie/slash-innovation/assets/67414669/42366503-3e86-4f61-94af-5834b702ae15)
-
 ```
 #include <stdio.h>
 
