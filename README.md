@@ -1,4 +1,6 @@
 # Tree
+
+![photo_2022-10-06_21-43-21](https://github.com/thearithchhie/slash-innovation/assets/67414669/0297b353-2e42-4ecc-8a50-f686e922914b)
 ```
 #include <stdio.h>
 
