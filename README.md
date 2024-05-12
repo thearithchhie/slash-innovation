@@ -1,4 +1,4 @@
-# Tree
+# Example 1
 
 ![photo_2022-10-06_21-43-21](https://github.com/thearithchhie/slash-innovation/assets/67414669/0297b353-2e42-4ecc-8a50-f686e922914b)
 ```
@@ -80,6 +80,59 @@ int main()
     printf("%d\n",543);
     printf("%d\n",54);
     printf("%d\n",5);
+    return 0;
+}
+
+```
+# Example 2
+```
+#include <stdio.h>
+
+int main()
+{
+    printf("=====block_1=====\n");
+    printf("%d\n",1);
+    printf("%d\n",12);
+    printf("%d\n",123);
+    printf("%d\n",1234);
+    printf("%d\n",12345);
+    printf("%d\n",123456);
+    printf("%d\n",1234567);
+    printf("%d\n",12345678);
+    printf("%d\n",123456789);
+    printf("=====block_2=====\n");
+    printf("%d\n",1); 
+    printf("%d\n",12); 
+    printf("%d\n",123); 
+    printf("%d\n",1234); 
+    printf("%d\n",12345); 
+    printf("%d\n",123456);
+    printf("=====block_3=====\n");
+    printf("%s\n","     11");
+    printf("%s\n","    1212");
+    printf("%s\n","   123123");
+    printf("%s\n","  12341234");
+    printf("%s\n"," 1234512345");
+    printf("%s\n","123456123456");
+    printf("%s\n"," 1234512345");
+    printf("%s\n","  12341234");
+    printf("%s\n","   123123");
+    printf("%s\n","    1212");
+    printf("%s\n","     11");
+    printf("=====block_4=====\n");
+    printf("%s\n","         11");
+    printf("%s\n","        1010");
+    printf("%s\n","      10101010");
+    printf("%s\n","    101010101010");
+    printf("%s\n","   10101010101010");
+    printf("%s\n"," 101010101010101010");
+    printf("%s\n","10101010101010101010");
+    printf("=====block_5=====\n");
+    printf("%d\n",55555);
+    printf("%d\n",4444);
+    printf("%d\n",333);
+    printf("%d\n",11);
+    printf("%d\n",1);
     return 0;
 }
 
