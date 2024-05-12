@@ -138,3 +138,140 @@ int main()
 }
 
 ```
+# Display all month of a year
+![photo_2023-01-05_10-49-42](https://github.com/thearithchhie/slash-innovation/assets/67414669/840a1835-e627-4dec-84e7-4029951b1652)
+
+```
+
+#include <stdio.h>
+
+int main()
+{
+    char jan[] = "\
+    Su  Mo  Tu  We  Th  Fr  Sa\n\
+    1   2   3   4   5   6   7\n\
+    8   9   10  11  12  13  14\n\
+    15  16  17  18  19  20  21\n\
+    22  23  24  25  26  27  28\n\
+    29  30";
+    
+    char feb[] = "\
+    Su  Mo  Tu  We  Th  Fr  Sa\n\
+                1   2   3   4\n\
+    5   6   7   8   9   10  11\n\
+    12  13  14  15  16  17  18\n\
+    19  20  21  22  23  24  25\n\
+    26  27  28";
+    
+    char march[] = "\
+    Su  Mo  Tu  We  Th  Fr  Sa\n\
+                1   2   3   4\n\
+    5   6   7   8   9   10  11\n\
+    12  13  14  15  16  17  18\n\
+    19  20  21  22  23  24  25\n\
+    26  27  28  29  30  31 ";
+    
+    char april[] = "\
+    Su  Mo  Tu  We  Th  Fr  Sa\n\
+                            1\n\
+    2   3   4   5   6   7   8\n\
+    9   10  11  12  13  14  15\n\
+    16  17  18  19  20  21  22\n\
+    23  24  25  26  27  28  29\n\
+    30 ";
+    
+    char may[] = "\
+    Su  Mo  Tu  We  Th  Fr  Sa\n\
+        1   2   3   4   5   6\n\
+    7   8   9   10  11  12  13\n\
+    14  15  16  17  18  19  20\n\
+    21  22  23  24  25  26  27\n\
+    28  29  30  31";
+    
+    char june[] = "\
+    Su  Mo  Tu  We  Th  Fr  Sa\n\
+                    1   2   3\n\
+    4   5   6   7   8   9   10\n\
+    11  12  13  14  15  16  17\n\
+    18  19  20  21  22  23  24\n\
+    25  26  27  28  29  30";
+    
+    char july[] = "\
+    Su  Mo  Tu  We  Th  Fr  Sa\n\
+                            1\n\
+    2   3   4   5   6   7   8\n\
+    9   10  11  12  13  14  15\n\
+    16  17  18  19  20  21  22\n\
+    23  24  25  26  27  28  29\n\
+    30  31";
+    
+    char august[] = "\
+    Su  Mo  Tu  We  Th  Fr  Sa\n\
+            1   2   3   4   5\n\
+    6   7   8   9   10  11  12\n\
+    13  14  15  16  17  18  19\n\
+    20  21  22  23  24  25  26\n\
+    27  28  29  30  31";
+    
+    char september[] = "\
+    Su  Mo  Tu  We  Th  Fr  Sa\n\
+                        1   2\n\
+    3   4   5   6   7   8   9\n\
+    10  11  12  13  14  15  16\n\
+    17  18  19  20  21  22  23\n\
+    24  25  26  27  28  29  30";
+    
+    char october[] = "\
+    Su  Mo  Tu  We  Th  Fr  Sa\n\
+    1   2   3   4   5   6   7\n\
+    8   9   10  11  12  13  14\n\
+    15  16  17  18  19  20  21\n\
+    22  23  24  25  26  27  28\n\
+    29  30  31";
+    
+    
+    char november[] = "\
+    Su  Mo  Tu  We  Th  Fr  Sa\n\
+                1   2   3   4\n\
+    5   6   7   8   9   10  11\n\
+    12  13  14  15  16  17  18\n\
+    19  20  21  22  23  24  25\n\
+    26  27  28  29  30";
+    
+     char december[] = "\
+    Su  Mo  Tu  We  Th  Fr  Sa\n\
+                        1   2\n\
+    3   4   5   6   7   8   9\n\
+    10  11  12  13  14  15  16\n\
+    17  18  19  20  21  22  23\n\
+    24  25  26  27  28  29  30";
+    
+    printf("================January================\n");
+        printf("%s\n",jan);
+    printf("================February================\n");
+        printf("%s\n",feb);
+    printf("================March================\n");
+        printf("%s\n",march);
+    printf("===============April=================\n");
+        printf("%s\n",april);
+    printf("===============May=================\n");
+        printf("%s\n",may);
+    printf("===============June=================\n");
+        printf("%s\n",june);
+    printf("===============July=================\n");
+        printf("%s\n",july);
+    printf("===============August=================\n");
+        printf("%s\n",august);
+    printf("===============September=================\n");
+        printf("%s\n",september);
+    printf("===============October=================\n");
+        printf("%s\n",october);
+    printf("===============November=================\n");
+        printf("%s\n",november);
+    printf("===============December=================\n");
+        printf("%s\n",december);
+
+    return 0;
+}
+
+```
