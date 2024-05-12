@@ -85,6 +85,7 @@ int main()
 
 ```
 # Example 2
+![photo_2022-10-06_21-38-53](https://github.com/thearithchhie/slash-innovation/assets/67414669/92280f89-ca2a-4480-a0ca-041174247abb)
 ```
 #include <stdio.h>
 
