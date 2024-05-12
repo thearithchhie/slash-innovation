@@ -275,3 +275,41 @@ int main()
 }
 
 ```
+# Fish
+![photo_2024-05-11_14-34-09](https://github.com/thearithchhie/slash-innovation/assets/67414669/42366503-3e86-4f61-94af-5834b702ae15)
+
+```
+#include <stdio.h>
+
+int main()
+{
+    char frish[] = 
+        "                               aaaaaaaaaaaaa\n"
+        "                          aaaaaaaaaaaaaaaaaaaaaaaaa\n"
+        "                           aaaaaaaaaaaaaaaaaaaaaaaa\n"
+        "                      aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\n"
+        "                   aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa                                     aa\n"
+        "                aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa                                aaaaa\n"
+        "              aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa                           aaaaaaa\n"
+        "           aaaaaaaaa     aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa                      aaaaaaaaaa\n"
+        "         aaaaaaaaaaa     aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa                 aaaaaaaaaaaa\n"
+        "       aaaaaaaaaaaaa     aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa             aaaaaaaaaaaaaa\n"
+        "     aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa         aaaaaaaaaaaaaaaa\n"
+        "   aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa    aaaaaaaaaaaaaaaaaaa\n"
+        "               aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\n"
+        "   aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa    aaaaaaaaaaaaaaaaaaa\n"
+        "     aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa         aaaaaaaaaaaaaaaa\n"
+        "       aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa             aaaaaaaaaaaaaa\n"
+        "         aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa                 aaaaaaaaaaaa\n"
+        "           aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa                      aaaaaaaaaa\n"
+        "              aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa                           aaaaaaa\n"
+        "                aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa                                aaaaa\n"
+        "                   aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa                                     aa\n"
+        "                      aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\n"
+        "                           aaaaaaaaaaaaaaaaaaaaaaaa\n"
+        "                                aaaaaaaaaaaaa\n";
+
+    printf("%s", frish);
+    return 0;
+}
+```
