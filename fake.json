@@ -1,0 +1,3538 @@
+{
+    "menu": [
+        {
+          "category_id": 17,
+          "parent_id": 0,
+          "styles": {
+            "color": "#000000",
+            "dark_mode_color": "#cccccc",
+            "font_size": "",
+            "padding_top": "",
+            "padding_bottom": ""
+          },
+          "name": "Women",
+          "image": "catalog/banner/all-under-9.9/women-app.jpg",
+          "is_collection": false,
+          "sort_order": 0,
+          "category_seo_url": "women",
+          "childs": [
+            {
+              "category_id": 100,
+              "parent_id": 17,
+              "styles": {
+                "color": "",
+                "dark_mode_color": "",
+                "font_size": "",
+                "padding_top": "",
+                "padding_bottom": ""
+              },
+              "name": "New In",
+              "image": "",
+              "is_collection": true,
+              "sort_order": -10,
+              "category_seo_url": "women-new-in",
+              "childs": [
+                {
+                  "category_id": 100,
+                  "parent_id": 0,
+                  "name": "All",
+                  "description": "",
+                  "sort_order": 0,
+                  "category_seo_url": "women-new-in",
+                  "styles": {
+                    "color": "",
+                    "dark_mode_color": "",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  }
+                },
+                {
+                  "category_id": 219,
+                  "parent_id": 100,
+                  "styles": {
+                    "color": "",
+                    "dark_mode_color": "",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Casual",
+                  "image": "catalog/banner/2023/collection/SmartCasual2.jpg",
+                  "is_collection": false,
+                  "sort_order": 0,
+                  "category_seo_url": "women-new-in-casual",
+                  "childs": []
+                },
+                {
+                  "category_id": 223,
+                  "parent_id": 100,
+                  "styles": {
+                    "color": "",
+                    "dark_mode_color": "",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Lifestyle",
+                  "image": "catalog/banner/2023/collection/LifeStyle3.jpg",
+                  "is_collection": false,
+                  "sort_order": 0,
+                  "category_seo_url": "women-new-in-lifestyle",
+                  "childs": []
+                },
+                {
+                  "category_id": 221,
+                  "parent_id": 100,
+                  "styles": {
+                    "color": "",
+                    "dark_mode_color": "",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Sportlife",
+                  "image": "catalog/banner/2023/collection/SportLife2.jpg",
+                  "is_collection": false,
+                  "sort_order": 0,
+                  "category_seo_url": "women-new-in-sportlife",
+                  "childs": []
+                },
+                {
+                  "category_id": 237,
+                  "parent_id": 100,
+                  "styles": {
+                    "color": "",
+                    "dark_mode_color": "",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "New In Top",
+                  "image": "",
+                  "is_collection": false,
+                  "sort_order": 10,
+                  "category_seo_url": "women-new-in-top",
+                  "childs": []
+                },
+                {
+                  "category_id": 236,
+                  "parent_id": 100,
+                  "styles": {
+                    "color": "",
+                    "dark_mode_color": "",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "New In Dress",
+                  "image": "",
+                  "is_collection": false,
+                  "sort_order": 11,
+                  "category_seo_url": "new-in-dress",
+                  "childs": []
+                },
+                {
+                  "category_id": 238,
+                  "parent_id": 100,
+                  "styles": {
+                    "color": "",
+                    "dark_mode_color": "",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "New In Bottom",
+                  "image": "",
+                  "is_collection": false,
+                  "sort_order": 12,
+                  "category_seo_url": "women-new-in-bottom",
+                  "childs": []
+                }
+              ]
+            },
+            {
+              "category_id": 157,
+              "parent_id": 17,
+              "styles": {
+                "color": "#000000",
+                "dark_mode_color": "#cccccc",
+                "font_size": "",
+                "padding_top": "",
+                "padding_bottom": ""
+              },
+              "name": "Clothing",
+              "image": "",
+              "is_collection": false,
+              "sort_order": 0,
+              "category_seo_url": "women-clothing",
+              "childs": [
+                {
+                  "category_id": 157,
+                  "parent_id": 0,
+                  "name": "All",
+                  "description": "",
+                  "sort_order": 0,
+                  "category_seo_url": "women-clothing",
+                  "styles": {
+                    "color": "",
+                    "dark_mode_color": "",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  }
+                },
+                {
+                  "category_id": 225,
+                  "parent_id": 157,
+                  "styles": {
+                    "color": "",
+                    "dark_mode_color": "",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Vest",
+                  "image": "catalog/Category/Printed-Vest (3)-1.jpg",
+                  "is_collection": false,
+                  "sort_order": 0,
+                  "category_seo_url": "women-vest",
+                  "childs": []
+                },
+                {
+                  "category_id": 208,
+                  "parent_id": 157,
+                  "styles": {
+                    "color": "",
+                    "dark_mode_color": "",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Blazers",
+                  "image": "",
+                  "is_collection": false,
+                  "sort_order": 0,
+                  "category_seo_url": "women-blazers",
+                  "childs": []
+                },
+                {
+                  "category_id": 179,
+                  "parent_id": 157,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Linen",
+                  "image": "",
+                  "is_collection": false,
+                  "sort_order": 0,
+                  "category_seo_url": "women-linen",
+                  "childs": []
+                },
+                {
+                  "category_id": 76,
+                  "parent_id": 157,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Tops",
+                  "image": "catalog/products/2022-01/39874/Lady-Short Sleeves-Off-The-Shoulder-Crop Top (4).jpg",
+                  "is_collection": false,
+                  "sort_order": 0,
+                  "category_seo_url": "women-tops",
+                  "childs": []
+                },
+                {
+                  "category_id": 28,
+                  "parent_id": 157,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Bras",
+                  "image": "catalog/products/2021-08/37928/Lady-Sport-Bras (1).jpg",
+                  "is_collection": false,
+                  "sort_order": 1,
+                  "category_seo_url": "women-bras",
+                  "childs": []
+                },
+                {
+                  "category_id": 32,
+                  "parent_id": 157,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Shirts",
+                  "image": "catalog/products/2021-12/39179/TEN11-Lady-Short-Sleeves-Puffled-Shirt (1).jpg",
+                  "is_collection": false,
+                  "sort_order": 1,
+                  "category_seo_url": "women-shirts",
+                  "childs": []
+                },
+                {
+                  "category_id": 73,
+                  "parent_id": 157,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "T-Shirts",
+                  "image": "catalog/products/2022-01/39908/TEN11-Lady-Short Sleeves-Printed T-Shirt (7).jpg",
+                  "is_collection": false,
+                  "sort_order": 2,
+                  "category_seo_url": "women-t-shirts",
+                  "childs": []
+                },
+                {
+                  "category_id": 36,
+                  "parent_id": 157,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Jackets ",
+                  "image": "catalog/products/2022-01/40207/Lady-Long Sleeves-Blazers (1).jpg",
+                  "is_collection": false,
+                  "sort_order": 3,
+                  "category_seo_url": "women-jackets-cardigans",
+                  "childs": []
+                },
+                {
+                  "category_id": 172,
+                  "parent_id": 157,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Polo Shirt",
+                  "image": "catalog/products/2021-12/38641/Lady-Short Sleeves-Polo-Shirt (1).jpg",
+                  "is_collection": false,
+                  "sort_order": 3,
+                  "category_seo_url": "women-polo-shirt",
+                  "childs": []
+                },
+                {
+                  "category_id": 71,
+                  "parent_id": 157,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Hoodies &amp; Sweatshirts",
+                  "image": "catalog/products/2021-12/39065/Lady-Long Sleeves-Printed Sweater-Shirt (6).jpg",
+                  "is_collection": false,
+                  "sort_order": 4,
+                  "category_seo_url": "women-hoodies-sweatshirts",
+                  "childs": []
+                },
+                {
+                  "category_id": 31,
+                  "parent_id": 157,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Jumpsuits",
+                  "image": "catalog/products/2021-08/38009/Lady-Short-Sleeves-Shirt-Denim-Short-Jumpsuit (3).jpg",
+                  "is_collection": false,
+                  "sort_order": 5,
+                  "category_seo_url": "women-jumpsuits",
+                  "childs": []
+                },
+                {
+                  "category_id": 35,
+                  "parent_id": 157,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Dresses",
+                  "image": "catalog/products/2022-01/39907/Red/TEN11-Lady-Sleeveless-Mini-Dress (2).jpg",
+                  "is_collection": false,
+                  "sort_order": 6,
+                  "category_seo_url": "women-dresses",
+                  "childs": []
+                },
+                {
+                  "category_id": 95,
+                  "parent_id": 157,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Cardigan",
+                  "image": "catalog/products/2021 copy 2.11/38506/Lady-Cardigan (5).jpg",
+                  "is_collection": false,
+                  "sort_order": 7,
+                  "category_seo_url": "women-cardigan",
+                  "childs": []
+                },
+                {
+                  "category_id": 80,
+                  "parent_id": 157,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Blouses",
+                  "image": "catalog/products/2021-12/39115/TEN11-Lady-Short-Sleeves-Ruffled-Crop-Shirt (4).jpg",
+                  "is_collection": false,
+                  "sort_order": 8,
+                  "category_seo_url": "women-blouses",
+                  "childs": []
+                },
+                {
+                  "category_id": 69,
+                  "parent_id": 157,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Sportswear",
+                  "image": "",
+                  "is_collection": false,
+                  "sort_order": 9,
+                  "category_seo_url": "women-sportswear",
+                  "childs": []
+                },
+                {
+                  "category_id": 30,
+                  "parent_id": 157,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Trousers",
+                  "image": "catalog/products/2021-05/35333/Model/Lady-pants2 (1).jpg",
+                  "is_collection": false,
+                  "sort_order": 10,
+                  "category_seo_url": "women-trousers",
+                  "childs": []
+                },
+                {
+                  "category_id": 29,
+                  "parent_id": 157,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Jeans",
+                  "image": "catalog/products/2021-07/37418/Lady-Trashed-Jeans (3).jpg",
+                  "is_collection": false,
+                  "sort_order": 11,
+                  "category_seo_url": "women-jeans",
+                  "childs": []
+                },
+                {
+                  "category_id": 70,
+                  "parent_id": 157,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Skirts",
+                  "image": "catalog/products/2021.10/38273/Lady-Trashed Short-Denim-Skirt (2).jpg",
+                  "is_collection": false,
+                  "sort_order": 12,
+                  "category_seo_url": "women-skirts",
+                  "childs": []
+                },
+                {
+                  "category_id": 79,
+                  "parent_id": 157,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Shorts",
+                  "image": "catalog/products/2021-08/38006/Lady-Denim Shorts (6).jpg",
+                  "is_collection": false,
+                  "sort_order": 13,
+                  "category_seo_url": "women-shorts",
+                  "childs": []
+                }
+              ]
+            },
+            {
+              "category_id": 25,
+              "parent_id": 17,
+              "styles": {
+                "color": "#000000",
+                "dark_mode_color": "#cccccc",
+                "font_size": "",
+                "padding_top": "",
+                "padding_bottom": ""
+              },
+              "name": "Shoes",
+              "image": "",
+              "is_collection": false,
+              "sort_order": 14,
+              "category_seo_url": "women-shoes",
+              "childs": [
+                {
+                  "category_id": 25,
+                  "parent_id": 0,
+                  "name": "All",
+                  "description": "",
+                  "sort_order": 0,
+                  "category_seo_url": "women-shoes",
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  }
+                },
+                {
+                  "category_id": 149,
+                  "parent_id": 25,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Sandals",
+                  "image": "catalog/products/2021.10/38209/Lady-Sandals (6).jpg",
+                  "is_collection": false,
+                  "sort_order": 0,
+                  "category_seo_url": "women-sandals",
+                  "childs": []
+                },
+                {
+                  "category_id": 155,
+                  "parent_id": 25,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Loafers",
+                  "image": "catalog/products/2021.03/35630/Lady-Leather-Shoes (4).jpg",
+                  "is_collection": false,
+                  "sort_order": 0,
+                  "category_seo_url": "women-loafers",
+                  "childs": []
+                },
+                {
+                  "category_id": 148,
+                  "parent_id": 25,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Sneakers",
+                  "image": "catalog/products/2021.10/38204/Lady-Sport Sneakers (3).jpg",
+                  "is_collection": false,
+                  "sort_order": 0,
+                  "category_seo_url": "women-sneakers",
+                  "childs": []
+                }
+              ]
+            },
+            {
+              "category_id": 133,
+              "parent_id": 17,
+              "styles": {
+                "color": "#000000",
+                "dark_mode_color": "#cccccc",
+                "font_size": "",
+                "padding_top": "",
+                "padding_bottom": ""
+              },
+              "name": "Accessories",
+              "image": "",
+              "is_collection": false,
+              "sort_order": 15,
+              "category_seo_url": "women-accessories",
+              "childs": [
+                {
+                  "category_id": 133,
+                  "parent_id": 0,
+                  "name": "All",
+                  "description": "",
+                  "sort_order": 0,
+                  "category_seo_url": "women-accessories",
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  }
+                },
+                {
+                  "category_id": 136,
+                  "parent_id": 133,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Belts",
+                  "image": "",
+                  "is_collection": false,
+                  "sort_order": 0,
+                  "category_seo_url": "women-belts",
+                  "childs": []
+                },
+                {
+                  "category_id": 139,
+                  "parent_id": 133,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Socks",
+                  "image": "catalog/products/2021-07/37905/Socks (1).jpg",
+                  "is_collection": false,
+                  "sort_order": 0,
+                  "category_seo_url": "women-socks",
+                  "childs": []
+                },
+                {
+                  "category_id": 134,
+                  "parent_id": 133,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Backpacks",
+                  "image": "catalog/products/2022-01/39938/Backpack-Bag (2).jpg",
+                  "is_collection": false,
+                  "sort_order": 0,
+                  "category_seo_url": "women-backpacks",
+                  "childs": []
+                },
+                {
+                  "category_id": 174,
+                  "parent_id": 133,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Scarf",
+                  "image": "",
+                  "is_collection": false,
+                  "sort_order": 0,
+                  "category_seo_url": null,
+                  "childs": []
+                },
+                {
+                  "category_id": 135,
+                  "parent_id": 133,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Bags",
+                  "image": "catalog/products/2021.03/35162/Ten11-Hand-Bags (7).jpg",
+                  "is_collection": false,
+                  "sort_order": 0,
+                  "category_seo_url": "women-bags",
+                  "childs": []
+                },
+                {
+                  "category_id": 144,
+                  "parent_id": 133,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Bows",
+                  "image": "catalog/products/2021-12/39184/TEN11-Bows (3).jpg",
+                  "is_collection": false,
+                  "sort_order": 0,
+                  "category_seo_url": "women-bows",
+                  "childs": []
+                },
+                {
+                  "category_id": 176,
+                  "parent_id": 133,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "UnderWear",
+                  "image": "",
+                  "is_collection": false,
+                  "sort_order": 0,
+                  "category_seo_url": "women-underwear",
+                  "childs": []
+                },
+                {
+                  "category_id": 211,
+                  "parent_id": 133,
+                  "styles": {
+                    "color": "",
+                    "dark_mode_color": "",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Luggage",
+                  "image": "",
+                  "is_collection": false,
+                  "sort_order": 0,
+                  "category_seo_url": "women-luggage",
+                  "childs": []
+                },
+                {
+                  "category_id": 142,
+                  "parent_id": 133,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Gloves",
+                  "image": "catalog/products/2020-04/27047/Ten11-Gloves (1).jpg",
+                  "is_collection": false,
+                  "sort_order": 0,
+                  "category_seo_url": "women-gloves",
+                  "childs": []
+                },
+                {
+                  "category_id": 137,
+                  "parent_id": 133,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Caps &amp; Hats",
+                  "image": "catalog/products/2021-12/39297/Hat (3)-1.jpg",
+                  "is_collection": false,
+                  "sort_order": 0,
+                  "category_seo_url": "women-caps-and-hats",
+                  "childs": []
+                }
+              ]
+            },
+            {
+              "category_id": 267,
+              "parent_id": 17,
+              "styles": {
+                "color": "",
+                "dark_mode_color": "",
+                "font_size": "",
+                "padding_top": "",
+                "padding_bottom": ""
+              },
+              "name": "Rider Collection",
+              "image": "",
+              "is_collection": false,
+              "sort_order": 39,
+              "category_seo_url": "women-rider-collection",
+              "childs": []
+            },
+            {
+              "category_id": 292,
+              "parent_id": 17,
+              "styles": {
+                "color": "",
+                "dark_mode_color": "",
+                "font_size": "",
+                "padding_top": "",
+                "padding_bottom": ""
+              },
+              "name": "Denim",
+              "image": "",
+              "is_collection": false,
+              "sort_order": 40,
+              "category_seo_url": "women-denim",
+              "childs": []
+            },
+            {
+              "category_id": 275,
+              "parent_id": 17,
+              "styles": {
+                "color": "#ef4992",
+                "dark_mode_color": "#ef4992",
+                "font_size": "",
+                "padding_top": "",
+                "padding_bottom": ""
+              },
+              "name": "Sale 30% To 50%",
+              "image": "",
+              "is_collection": false,
+              "sort_order": 100,
+              "category_seo_url": "sale-30-50-percent-for-women",
+              "childs": []
+            },
+            {
+              "category_id": "category_id=17&is_sale_category=1",
+              "parent_id": "17",
+              "p_id": "17",
+              "name": "SALE",
+              "description": "",
+              "sort_order": 0,
+              "category_seo_url": "women?is_sale_category=1",
+              "is_sale_category": 1,
+              "styles": {
+                "padding_top": "30",
+                "padding_bottom": "5",
+                "color": "#ef4992",
+                "dark_mode_color": "#ef4992",
+                "font_size": "45"
+              },
+              "childs": [
+                {
+                  "c_id": 157,
+                  "p_id": 17,
+                  "name": "Clothing",
+                  "image": "",
+                  "is_collection": false,
+                  "sort_order": 0,
+                  "is_sale_category": 1,
+                  "category_seo_url": "women-clothing?is_sale_category=1",
+                  "styles": {
+                    "padding_top": "5",
+                    "padding_bottom": "5",
+                    "color": "#ef4992",
+                    "dark_mode_color": "#ef4992"
+                  },
+                  "category_id": "category_id=157&is_sale_category=1",
+                  "parent_id": "category_id=17&is_sale_category=1",
+                  "childs": [
+                    {
+                      "category_id": "category_id=157&is_sale_category=1",
+                      "parent_id": 0,
+                      "name": "All",
+                      "description": "",
+                      "sort_order": 0,
+                      "category_seo_url": "women-clothing?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "is_sale_category": 1
+                    },
+                    {
+                      "c_id": 208,
+                      "p_id": 157,
+                      "name": "Blazers",
+                      "image": "",
+                      "is_collection": false,
+                      "sort_order": 0,
+                      "is_sale_category": 1,
+                      "category_seo_url": "women-blazers?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "category_id": "category_id=208&is_sale_category=1",
+                      "parent_id": "category_id=157&is_sale_category=1",
+                      "childs": []
+                    },
+                    {
+                      "c_id": 179,
+                      "p_id": 157,
+                      "name": "Linen",
+                      "image": "",
+                      "is_collection": false,
+                      "sort_order": 0,
+                      "is_sale_category": 1,
+                      "category_seo_url": "women-linen?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "category_id": "category_id=179&is_sale_category=1",
+                      "parent_id": "category_id=157&is_sale_category=1",
+                      "childs": []
+                    },
+                    {
+                      "c_id": 225,
+                      "p_id": 157,
+                      "name": "Vest",
+                      "image": "catalog/Category/Printed-Vest (3)-1.jpg",
+                      "is_collection": false,
+                      "sort_order": 0,
+                      "is_sale_category": 1,
+                      "category_seo_url": "women-vest?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "category_id": "category_id=225&is_sale_category=1",
+                      "parent_id": "category_id=157&is_sale_category=1",
+                      "childs": []
+                    },
+                    {
+                      "c_id": 76,
+                      "p_id": 157,
+                      "name": "Tops",
+                      "image": "catalog/products/2022-01/39874/Lady-Short Sleeves-Off-The-Shoulder-Crop Top (4).jpg",
+                      "is_collection": false,
+                      "sort_order": 0,
+                      "is_sale_category": 1,
+                      "category_seo_url": "women-tops?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "category_id": "category_id=76&is_sale_category=1",
+                      "parent_id": "category_id=157&is_sale_category=1",
+                      "childs": []
+                    },
+                    {
+                      "c_id": 28,
+                      "p_id": 157,
+                      "name": "Bras",
+                      "image": "catalog/products/2021-08/37928/Lady-Sport-Bras (1).jpg",
+                      "is_collection": false,
+                      "sort_order": 1,
+                      "is_sale_category": 1,
+                      "category_seo_url": "women-bras?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "category_id": "category_id=28&is_sale_category=1",
+                      "parent_id": "category_id=157&is_sale_category=1",
+                      "childs": []
+                    },
+                    {
+                      "c_id": 32,
+                      "p_id": 157,
+                      "name": "Shirts",
+                      "image": "catalog/products/2021-12/39179/TEN11-Lady-Short-Sleeves-Puffled-Shirt (1).jpg",
+                      "is_collection": false,
+                      "sort_order": 1,
+                      "is_sale_category": 1,
+                      "category_seo_url": "women-shirts?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "category_id": "category_id=32&is_sale_category=1",
+                      "parent_id": "category_id=157&is_sale_category=1",
+                      "childs": []
+                    },
+                    {
+                      "c_id": 73,
+                      "p_id": 157,
+                      "name": "T-Shirts",
+                      "image": "catalog/products/2022-01/39908/TEN11-Lady-Short Sleeves-Printed T-Shirt (7).jpg",
+                      "is_collection": false,
+                      "sort_order": 2,
+                      "is_sale_category": 1,
+                      "category_seo_url": "women-t-shirts?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "category_id": "category_id=73&is_sale_category=1",
+                      "parent_id": "category_id=157&is_sale_category=1",
+                      "childs": []
+                    },
+                    {
+                      "c_id": 172,
+                      "p_id": 157,
+                      "name": "Polo Shirt",
+                      "image": "catalog/products/2021-12/38641/Lady-Short Sleeves-Polo-Shirt (1).jpg",
+                      "is_collection": false,
+                      "sort_order": 3,
+                      "is_sale_category": 1,
+                      "category_seo_url": "women-polo-shirt?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "category_id": "category_id=172&is_sale_category=1",
+                      "parent_id": "category_id=157&is_sale_category=1",
+                      "childs": []
+                    },
+                    {
+                      "c_id": 36,
+                      "p_id": 157,
+                      "name": "Jackets ",
+                      "image": "catalog/products/2022-01/40207/Lady-Long Sleeves-Blazers (1).jpg",
+                      "is_collection": false,
+                      "sort_order": 3,
+                      "is_sale_category": 1,
+                      "category_seo_url": "women-jackets-cardigans?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "category_id": "category_id=36&is_sale_category=1",
+                      "parent_id": "category_id=157&is_sale_category=1",
+                      "childs": []
+                    },
+                    {
+                      "c_id": 71,
+                      "p_id": 157,
+                      "name": "Hoodies &amp; Sweatshirts",
+                      "image": "catalog/products/2021-12/39065/Lady-Long Sleeves-Printed Sweater-Shirt (6).jpg",
+                      "is_collection": false,
+                      "sort_order": 4,
+                      "is_sale_category": 1,
+                      "category_seo_url": "women-hoodies-sweatshirts?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "category_id": "category_id=71&is_sale_category=1",
+                      "parent_id": "category_id=157&is_sale_category=1",
+                      "childs": []
+                    },
+                    {
+                      "c_id": 31,
+                      "p_id": 157,
+                      "name": "Jumpsuits",
+                      "image": "catalog/products/2021-08/38009/Lady-Short-Sleeves-Shirt-Denim-Short-Jumpsuit (3).jpg",
+                      "is_collection": false,
+                      "sort_order": 5,
+                      "is_sale_category": 1,
+                      "category_seo_url": "women-jumpsuits?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "category_id": "category_id=31&is_sale_category=1",
+                      "parent_id": "category_id=157&is_sale_category=1",
+                      "childs": []
+                    },
+                    {
+                      "c_id": 35,
+                      "p_id": 157,
+                      "name": "Dresses",
+                      "image": "catalog/products/2022-01/39907/Red/TEN11-Lady-Sleeveless-Mini-Dress (2).jpg",
+                      "is_collection": false,
+                      "sort_order": 6,
+                      "is_sale_category": 1,
+                      "category_seo_url": "women-dresses?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "category_id": "category_id=35&is_sale_category=1",
+                      "parent_id": "category_id=157&is_sale_category=1",
+                      "childs": []
+                    },
+                    {
+                      "c_id": 95,
+                      "p_id": 157,
+                      "name": "Cardigan",
+                      "image": "catalog/products/2021 copy 2.11/38506/Lady-Cardigan (5).jpg",
+                      "is_collection": false,
+                      "sort_order": 7,
+                      "is_sale_category": 1,
+                      "category_seo_url": "women-cardigan?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "category_id": "category_id=95&is_sale_category=1",
+                      "parent_id": "category_id=157&is_sale_category=1",
+                      "childs": []
+                    },
+                    {
+                      "c_id": 80,
+                      "p_id": 157,
+                      "name": "Blouses",
+                      "image": "catalog/products/2021-12/39115/TEN11-Lady-Short-Sleeves-Ruffled-Crop-Shirt (4).jpg",
+                      "is_collection": false,
+                      "sort_order": 8,
+                      "is_sale_category": 1,
+                      "category_seo_url": "women-blouses?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "category_id": "category_id=80&is_sale_category=1",
+                      "parent_id": "category_id=157&is_sale_category=1",
+                      "childs": []
+                    },
+                    {
+                      "c_id": 69,
+                      "p_id": 157,
+                      "name": "Sportswear",
+                      "image": "",
+                      "is_collection": false,
+                      "sort_order": 9,
+                      "is_sale_category": 1,
+                      "category_seo_url": "women-sportswear?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "category_id": "category_id=69&is_sale_category=1",
+                      "parent_id": "category_id=157&is_sale_category=1",
+                      "childs": []
+                    },
+                    {
+                      "c_id": 30,
+                      "p_id": 157,
+                      "name": "Trousers",
+                      "image": "catalog/products/2021-05/35333/Model/Lady-pants2 (1).jpg",
+                      "is_collection": false,
+                      "sort_order": 10,
+                      "is_sale_category": 1,
+                      "category_seo_url": "women-trousers?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "category_id": "category_id=30&is_sale_category=1",
+                      "parent_id": "category_id=157&is_sale_category=1",
+                      "childs": []
+                    },
+                    {
+                      "c_id": 29,
+                      "p_id": 157,
+                      "name": "Jeans",
+                      "image": "catalog/products/2021-07/37418/Lady-Trashed-Jeans (3).jpg",
+                      "is_collection": false,
+                      "sort_order": 11,
+                      "is_sale_category": 1,
+                      "category_seo_url": "women-jeans?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "category_id": "category_id=29&is_sale_category=1",
+                      "parent_id": "category_id=157&is_sale_category=1",
+                      "childs": []
+                    },
+                    {
+                      "c_id": 70,
+                      "p_id": 157,
+                      "name": "Skirts",
+                      "image": "catalog/products/2021.10/38273/Lady-Trashed Short-Denim-Skirt (2).jpg",
+                      "is_collection": false,
+                      "sort_order": 12,
+                      "is_sale_category": 1,
+                      "category_seo_url": "women-skirts?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "category_id": "category_id=70&is_sale_category=1",
+                      "parent_id": "category_id=157&is_sale_category=1",
+                      "childs": []
+                    },
+                    {
+                      "c_id": 79,
+                      "p_id": 157,
+                      "name": "Shorts",
+                      "image": "catalog/products/2021-08/38006/Lady-Denim Shorts (6).jpg",
+                      "is_collection": false,
+                      "sort_order": 13,
+                      "is_sale_category": 1,
+                      "category_seo_url": "women-shorts?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "category_id": "category_id=79&is_sale_category=1",
+                      "parent_id": "category_id=157&is_sale_category=1",
+                      "childs": []
+                    }
+                  ]
+                },
+                {
+                  "c_id": 25,
+                  "p_id": 17,
+                  "name": "Shoes",
+                  "image": "",
+                  "is_collection": false,
+                  "sort_order": 14,
+                  "is_sale_category": 1,
+                  "category_seo_url": "women-shoes?is_sale_category=1",
+                  "styles": {
+                    "padding_top": "5",
+                    "padding_bottom": "5",
+                    "color": "#ef4992",
+                    "dark_mode_color": "#ef4992"
+                  },
+                  "category_id": "category_id=25&is_sale_category=1",
+                  "parent_id": "category_id=17&is_sale_category=1",
+                  "childs": [
+                    {
+                      "category_id": "category_id=25&is_sale_category=1",
+                      "parent_id": 0,
+                      "name": "All",
+                      "description": "",
+                      "sort_order": 0,
+                      "category_seo_url": "women-shoes?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "is_sale_category": 1
+                    },
+                    {
+                      "c_id": 149,
+                      "p_id": 25,
+                      "name": "Sandals",
+                      "image": "catalog/products/2021.10/38209/Lady-Sandals (6).jpg",
+                      "is_collection": false,
+                      "sort_order": 0,
+                      "is_sale_category": 1,
+                      "category_seo_url": "women-sandals?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "category_id": "category_id=149&is_sale_category=1",
+                      "parent_id": "category_id=25&is_sale_category=1",
+                      "childs": []
+                    },
+                    {
+                      "c_id": 155,
+                      "p_id": 25,
+                      "name": "Loafers",
+                      "image": "catalog/products/2021.03/35630/Lady-Leather-Shoes (4).jpg",
+                      "is_collection": false,
+                      "sort_order": 0,
+                      "is_sale_category": 1,
+                      "category_seo_url": "women-loafers?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "category_id": "category_id=155&is_sale_category=1",
+                      "parent_id": "category_id=25&is_sale_category=1",
+                      "childs": []
+                    },
+                    {
+                      "c_id": 148,
+                      "p_id": 25,
+                      "name": "Sneakers",
+                      "image": "catalog/products/2021.10/38204/Lady-Sport Sneakers (3).jpg",
+                      "is_collection": false,
+                      "sort_order": 0,
+                      "is_sale_category": 1,
+                      "category_seo_url": "women-sneakers?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "category_id": "category_id=148&is_sale_category=1",
+                      "parent_id": "category_id=25&is_sale_category=1",
+                      "childs": []
+                    }
+                  ]
+                },
+                {
+                  "c_id": 133,
+                  "p_id": 17,
+                  "name": "Accessories",
+                  "image": "",
+                  "is_collection": false,
+                  "sort_order": 15,
+                  "is_sale_category": 1,
+                  "category_seo_url": "women-accessories?is_sale_category=1",
+                  "styles": {
+                    "padding_top": "5",
+                    "padding_bottom": "5",
+                    "color": "#ef4992",
+                    "dark_mode_color": "#ef4992"
+                  },
+                  "category_id": "category_id=133&is_sale_category=1",
+                  "parent_id": "category_id=17&is_sale_category=1",
+                  "childs": [
+                    {
+                      "category_id": "category_id=133&is_sale_category=1",
+                      "parent_id": 0,
+                      "name": "All",
+                      "description": "",
+                      "sort_order": 0,
+                      "category_seo_url": "women-accessories?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "is_sale_category": 1
+                    },
+                    {
+                      "c_id": 137,
+                      "p_id": 133,
+                      "name": "Caps &amp; Hats",
+                      "image": "catalog/products/2021-12/39297/Hat (3)-1.jpg",
+                      "is_collection": false,
+                      "sort_order": 0,
+                      "is_sale_category": 1,
+                      "category_seo_url": "women-caps-and-hats?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "category_id": "category_id=137&is_sale_category=1",
+                      "parent_id": "category_id=133&is_sale_category=1",
+                      "childs": []
+                    },
+                    {
+                      "c_id": 144,
+                      "p_id": 133,
+                      "name": "Bows",
+                      "image": "catalog/products/2021-12/39184/TEN11-Bows (3).jpg",
+                      "is_collection": false,
+                      "sort_order": 0,
+                      "is_sale_category": 1,
+                      "category_seo_url": "women-bows?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "category_id": "category_id=144&is_sale_category=1",
+                      "parent_id": "category_id=133&is_sale_category=1",
+                      "childs": []
+                    },
+                    {
+                      "c_id": 136,
+                      "p_id": 133,
+                      "name": "Belts",
+                      "image": "",
+                      "is_collection": false,
+                      "sort_order": 0,
+                      "is_sale_category": 1,
+                      "category_seo_url": "women-belts?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "category_id": "category_id=136&is_sale_category=1",
+                      "parent_id": "category_id=133&is_sale_category=1",
+                      "childs": []
+                    },
+                    {
+                      "c_id": 135,
+                      "p_id": 133,
+                      "name": "Bags",
+                      "image": "catalog/products/2021.03/35162/Ten11-Hand-Bags (7).jpg",
+                      "is_collection": false,
+                      "sort_order": 0,
+                      "is_sale_category": 1,
+                      "category_seo_url": "women-bags?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "category_id": "category_id=135&is_sale_category=1",
+                      "parent_id": "category_id=133&is_sale_category=1",
+                      "childs": []
+                    },
+                    {
+                      "c_id": 176,
+                      "p_id": 133,
+                      "name": "UnderWear",
+                      "image": "",
+                      "is_collection": false,
+                      "sort_order": 0,
+                      "is_sale_category": 1,
+                      "category_seo_url": "women-underwear?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "category_id": "category_id=176&is_sale_category=1",
+                      "parent_id": "category_id=133&is_sale_category=1",
+                      "childs": []
+                    },
+                    {
+                      "c_id": 211,
+                      "p_id": 133,
+                      "name": "Luggage",
+                      "image": "",
+                      "is_collection": false,
+                      "sort_order": 0,
+                      "is_sale_category": 1,
+                      "category_seo_url": "women-luggage?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "category_id": "category_id=211&is_sale_category=1",
+                      "parent_id": "category_id=133&is_sale_category=1",
+                      "childs": []
+                    },
+                    {
+                      "c_id": 134,
+                      "p_id": 133,
+                      "name": "Backpacks",
+                      "image": "catalog/products/2022-01/39938/Backpack-Bag (2).jpg",
+                      "is_collection": false,
+                      "sort_order": 0,
+                      "is_sale_category": 1,
+                      "category_seo_url": "women-backpacks?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "category_id": "category_id=134&is_sale_category=1",
+                      "parent_id": "category_id=133&is_sale_category=1",
+                      "childs": []
+                    }
+                  ]
+                },
+                {
+                  "c_id": 267,
+                  "p_id": 17,
+                  "name": "Rider Collection",
+                  "image": "",
+                  "is_collection": false,
+                  "sort_order": 39,
+                  "is_sale_category": 1,
+                  "category_seo_url": "women-rider-collection?is_sale_category=1",
+                  "styles": {
+                    "padding_top": "5",
+                    "padding_bottom": "5",
+                    "color": "#ef4992",
+                    "dark_mode_color": "#ef4992"
+                  },
+                  "category_id": "category_id=267&is_sale_category=1",
+                  "parent_id": "category_id=17&is_sale_category=1",
+                  "childs": []
+                },
+                {
+                  "c_id": 292,
+                  "p_id": 17,
+                  "name": "Denim",
+                  "image": "",
+                  "is_collection": false,
+                  "sort_order": 40,
+                  "is_sale_category": 1,
+                  "category_seo_url": "women-denim?is_sale_category=1",
+                  "styles": {
+                    "padding_top": "5",
+                    "padding_bottom": "5",
+                    "color": "#ef4992",
+                    "dark_mode_color": "#ef4992"
+                  },
+                  "category_id": "category_id=292&is_sale_category=1",
+                  "parent_id": "category_id=17&is_sale_category=1",
+                  "childs": []
+                },
+                {
+                  "c_id": 275,
+                  "p_id": 17,
+                  "name": "Sale 30% To 50%",
+                  "image": "",
+                  "is_collection": false,
+                  "sort_order": 100,
+                  "is_sale_category": 1,
+                  "category_seo_url": "sale-30-50-percent-for-women?is_sale_category=1",
+                  "styles": {
+                    "padding_top": "5",
+                    "padding_bottom": "5",
+                    "color": "#ef4992",
+                    "dark_mode_color": "#ef4992"
+                  },
+                  "category_id": "category_id=275&is_sale_category=1",
+                  "parent_id": "category_id=17&is_sale_category=1",
+                  "childs": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category_id": 33,
+          "parent_id": 0,
+          "styles": {
+            "color": "#000000",
+            "dark_mode_color": "#cccccc",
+            "font_size": "",
+            "padding_top": "",
+            "padding_bottom": ""
+          },
+          "name": "Men",
+          "image": "catalog/banner/all-under-9.9/men-app.jpg",
+          "is_collection": false,
+          "sort_order": 2,
+          "category_seo_url": "men",
+          "childs": [
+            {
+              "category_id": 101,
+              "parent_id": 33,
+              "styles": {
+                "color": "",
+                "dark_mode_color": "",
+                "font_size": "",
+                "padding_top": "",
+                "padding_bottom": ""
+              },
+              "name": "New In",
+              "image": "",
+              "is_collection": true,
+              "sort_order": -10,
+              "category_seo_url": "men-new-in",
+              "childs": [
+                {
+                  "category_id": 101,
+                  "parent_id": 0,
+                  "name": "All",
+                  "description": "",
+                  "sort_order": 0,
+                  "category_seo_url": "men-new-in",
+                  "styles": {
+                    "color": "",
+                    "dark_mode_color": "",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  }
+                },
+                {
+                  "category_id": 222,
+                  "parent_id": 101,
+                  "styles": {
+                    "color": "",
+                    "dark_mode_color": "",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Lifestyle",
+                  "image": "catalog/banner/2023/collection/LifeStyle2.jpg",
+                  "is_collection": false,
+                  "sort_order": 0,
+                  "category_seo_url": "men-new-in-lifestyle",
+                  "childs": []
+                },
+                {
+                  "category_id": 220,
+                  "parent_id": 101,
+                  "styles": {
+                    "color": "",
+                    "dark_mode_color": "",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Sportlife",
+                  "image": "catalog/banner/2023/collection/SportLife1.jpg",
+                  "is_collection": false,
+                  "sort_order": 1,
+                  "category_seo_url": "men-new-in-sportlife",
+                  "childs": []
+                },
+                {
+                  "category_id": 218,
+                  "parent_id": 101,
+                  "styles": {
+                    "color": "",
+                    "dark_mode_color": "",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Casual",
+                  "image": "catalog/banner/2023/collection/SmartCasual3.jpg",
+                  "is_collection": false,
+                  "sort_order": 2,
+                  "category_seo_url": "men-new-in-casual",
+                  "childs": []
+                },
+                {
+                  "category_id": 234,
+                  "parent_id": 101,
+                  "styles": {
+                    "color": "",
+                    "dark_mode_color": "",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "New In Top",
+                  "image": "",
+                  "is_collection": false,
+                  "sort_order": 10,
+                  "category_seo_url": "men-new-in-top",
+                  "childs": []
+                },
+                {
+                  "category_id": 235,
+                  "parent_id": 101,
+                  "styles": {
+                    "color": "",
+                    "dark_mode_color": "",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "New In Bottom",
+                  "image": "",
+                  "is_collection": false,
+                  "sort_order": 11,
+                  "category_seo_url": "men-new-in-bottom",
+                  "childs": []
+                }
+              ]
+            },
+            {
+              "category_id": 156,
+              "parent_id": 33,
+              "styles": {
+                "color": "#000000",
+                "dark_mode_color": "#cccccc",
+                "font_size": "",
+                "padding_top": "",
+                "padding_bottom": ""
+              },
+              "name": "Clothing",
+              "image": "",
+              "is_collection": false,
+              "sort_order": 0,
+              "category_seo_url": "men-clothing",
+              "childs": [
+                {
+                  "category_id": 156,
+                  "parent_id": 0,
+                  "name": "All",
+                  "description": "",
+                  "sort_order": 0,
+                  "category_seo_url": "men-clothing",
+                  "styles": {
+                    "color": "",
+                    "dark_mode_color": "",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  }
+                },
+                {
+                  "category_id": 207,
+                  "parent_id": 156,
+                  "styles": {
+                    "color": "",
+                    "dark_mode_color": "",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Blazers",
+                  "image": "",
+                  "is_collection": false,
+                  "sort_order": 0,
+                  "category_seo_url": "blazers",
+                  "childs": []
+                },
+                {
+                  "category_id": 224,
+                  "parent_id": 156,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Vest",
+                  "image": "catalog/Category/Printed-Vest (3).jpg",
+                  "is_collection": false,
+                  "sort_order": 0,
+                  "category_seo_url": "men-vest",
+                  "childs": []
+                },
+                {
+                  "category_id": 61,
+                  "parent_id": 156,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Shirts",
+                  "image": "catalog/products/2021-12/39221/White/TEN11-Men-Long-Sleeves-Shirt (12).jpg",
+                  "is_collection": false,
+                  "sort_order": 0,
+                  "category_seo_url": "men-shirts",
+                  "childs": []
+                },
+                {
+                  "category_id": 92,
+                  "parent_id": 156,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Polo Shirts",
+                  "image": "catalog/products/2021.09/38170/New/Men-Short Sleeves-Fitted Polo-Shirt (5).jpg",
+                  "is_collection": false,
+                  "sort_order": 1,
+                  "category_seo_url": "men-polo-shirts",
+                  "childs": []
+                },
+                {
+                  "category_id": 178,
+                  "parent_id": 156,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Linen",
+                  "image": "",
+                  "is_collection": false,
+                  "sort_order": 1,
+                  "category_seo_url": "men-linen",
+                  "childs": []
+                },
+                {
+                  "category_id": 63,
+                  "parent_id": 156,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "T-Shirts",
+                  "image": "catalog/products/2021 copy 2.11/38527/Men-Short Sleeves-Printed T-Shirt (5).jpg",
+                  "is_collection": false,
+                  "sort_order": 2,
+                  "category_seo_url": "men-t-shirts",
+                  "childs": []
+                },
+                {
+                  "category_id": 60,
+                  "parent_id": 156,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Jackets",
+                  "image": "catalog/products/2022-01/39885/Men-Long-Sleeves-Jacket (3).jpg",
+                  "is_collection": false,
+                  "sort_order": 3,
+                  "category_seo_url": "men-Jackets",
+                  "childs": []
+                },
+                {
+                  "category_id": 72,
+                  "parent_id": 156,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Hoodies &amp; Sweatshirts",
+                  "image": "catalog/products/2021-12/39329/Men-Long-Sleeves-Sweater Shirt (10).jpg",
+                  "is_collection": false,
+                  "sort_order": 4,
+                  "category_seo_url": "men-hoodies-sweatshirts",
+                  "childs": []
+                },
+                {
+                  "category_id": 96,
+                  "parent_id": 156,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Cardigans",
+                  "image": "",
+                  "is_collection": false,
+                  "sort_order": 5,
+                  "category_seo_url": "men-cardigans",
+                  "childs": []
+                },
+                {
+                  "category_id": 68,
+                  "parent_id": 156,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Sportswear",
+                  "image": "",
+                  "is_collection": false,
+                  "sort_order": 7,
+                  "category_seo_url": "men-sportswear",
+                  "childs": []
+                },
+                {
+                  "category_id": 62,
+                  "parent_id": 156,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Trousers",
+                  "image": "catalog/products/2021.10/38235/Ivory/Men-Slim-Crop-Chino-Pants (15).jpg",
+                  "is_collection": false,
+                  "sort_order": 8,
+                  "category_seo_url": "men-trousers",
+                  "childs": []
+                },
+                {
+                  "category_id": 24,
+                  "parent_id": 156,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Jeans",
+                  "image": "catalog/products/2021-12/39492/Men-Slim-Fit-Jeans (1).jpg",
+                  "is_collection": false,
+                  "sort_order": 9,
+                  "category_seo_url": "men-jeans",
+                  "childs": []
+                },
+                {
+                  "category_id": 66,
+                  "parent_id": 156,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Shorts",
+                  "image": "catalog/products/2022-01/39902/Khaki/Men-Chino-Shorts (26).jpg",
+                  "is_collection": false,
+                  "sort_order": 10,
+                  "category_seo_url": "men-shorts",
+                  "childs": []
+                },
+                {
+                  "category_id": 107,
+                  "parent_id": 156,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Boxers",
+                  "image": "catalog/products/2021-01/33034/New/Ten11-Men-Boxers (11).jpg",
+                  "is_collection": false,
+                  "sort_order": 11,
+                  "category_seo_url": "men-boxers",
+                  "childs": []
+                }
+              ]
+            },
+            {
+              "category_id": 59,
+              "parent_id": 33,
+              "styles": {
+                "color": "#000000",
+                "dark_mode_color": "#cccccc",
+                "font_size": "",
+                "padding_top": "",
+                "padding_bottom": ""
+              },
+              "name": "Shoes",
+              "image": "",
+              "is_collection": false,
+              "sort_order": 12,
+              "category_seo_url": "men-shoes",
+              "childs": [
+                {
+                  "category_id": 59,
+                  "parent_id": 0,
+                  "name": "All",
+                  "description": "",
+                  "sort_order": 0,
+                  "category_seo_url": "men-shoes",
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  }
+                },
+                {
+                  "category_id": 145,
+                  "parent_id": 59,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Sneakers",
+                  "image": "catalog/products/2021-12/39257/TEN11-Men Sneakers (1).jpg",
+                  "is_collection": false,
+                  "sort_order": 0,
+                  "category_seo_url": "men-sneakers",
+                  "childs": []
+                },
+                {
+                  "category_id": 214,
+                  "parent_id": 59,
+                  "styles": {
+                    "color": "",
+                    "dark_mode_color": "",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Shoe Insoles",
+                  "image": "",
+                  "is_collection": false,
+                  "sort_order": 0,
+                  "category_seo_url": "shoe-insoles",
+                  "childs": []
+                },
+                {
+                  "category_id": 106,
+                  "parent_id": 59,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Sandals",
+                  "image": "catalog/products/2021-08/37883/Men-Sandals (4).jpg",
+                  "is_collection": false,
+                  "sort_order": 0,
+                  "category_seo_url": "men-sandals",
+                  "childs": []
+                }
+              ]
+            },
+            {
+              "category_id": 20,
+              "parent_id": 33,
+              "styles": {
+                "color": "#000000",
+                "dark_mode_color": "#cccccc",
+                "font_size": "",
+                "padding_top": "",
+                "padding_bottom": ""
+              },
+              "name": "Accessories",
+              "image": "catalog/Category/acc_.jpg",
+              "is_collection": false,
+              "sort_order": 13,
+              "category_seo_url": "accessories",
+              "childs": [
+                {
+                  "category_id": 20,
+                  "parent_id": 0,
+                  "name": "All",
+                  "description": "",
+                  "sort_order": 0,
+                  "category_seo_url": "accessories",
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  }
+                },
+                {
+                  "category_id": 105,
+                  "parent_id": 20,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Socks",
+                  "image": "catalog/products/2022-01/40172/Sock-Sets (2).jpg",
+                  "is_collection": false,
+                  "sort_order": 0,
+                  "category_seo_url": "socks",
+                  "childs": []
+                },
+                {
+                  "category_id": 173,
+                  "parent_id": 20,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Scarf",
+                  "image": "catalog/products/2021-12/39301/Cashmere-Scarf (8).jpg",
+                  "is_collection": false,
+                  "sort_order": 0,
+                  "category_seo_url": "men-scarf",
+                  "childs": []
+                },
+                {
+                  "category_id": 108,
+                  "parent_id": 20,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Belts",
+                  "image": "catalog/products/2021.10/38181/Belt (1).jpg",
+                  "is_collection": false,
+                  "sort_order": 0,
+                  "category_seo_url": "men-belts",
+                  "childs": []
+                },
+                {
+                  "category_id": 98,
+                  "parent_id": 20,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Bags",
+                  "image": "catalog/products/2022-01/39887/TEN11-Leather Crossbody-Bag (5).jpg",
+                  "is_collection": false,
+                  "sort_order": 0,
+                  "category_seo_url": "men-bags",
+                  "childs": []
+                },
+                {
+                  "category_id": 210,
+                  "parent_id": 20,
+                  "styles": {
+                    "color": "",
+                    "dark_mode_color": "",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Luggage",
+                  "image": "",
+                  "is_collection": false,
+                  "sort_order": 0,
+                  "category_seo_url": "men-luggage",
+                  "childs": []
+                },
+                {
+                  "category_id": 141,
+                  "parent_id": 20,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Gloves",
+                  "image": "",
+                  "is_collection": false,
+                  "sort_order": 0,
+                  "category_seo_url": "men-gloves",
+                  "childs": []
+                },
+                {
+                  "category_id": 64,
+                  "parent_id": 20,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Caps &amp; Hats",
+                  "image": "catalog/products/2021-12/39481/Black/Quilted-Bucket-Hat (1).jpg",
+                  "is_collection": false,
+                  "sort_order": 0,
+                  "category_seo_url": "caps-hats",
+                  "childs": []
+                },
+                {
+                  "category_id": 206,
+                  "parent_id": 20,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Wallet",
+                  "image": "",
+                  "is_collection": false,
+                  "sort_order": 0,
+                  "category_seo_url": "wallet",
+                  "childs": []
+                },
+                {
+                  "category_id": 26,
+                  "parent_id": 20,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Backpacks",
+                  "image": "catalog/products/2021.03/35618/Ten11-Backpack-Bags  (2).jpg",
+                  "is_collection": false,
+                  "sort_order": 1,
+                  "category_seo_url": "backpacks",
+                  "childs": []
+                }
+              ]
+            },
+            {
+              "category_id": 266,
+              "parent_id": 33,
+              "styles": {
+                "color": "",
+                "dark_mode_color": "",
+                "font_size": "",
+                "padding_top": "",
+                "padding_bottom": ""
+              },
+              "name": "Rider Collection",
+              "image": "",
+              "is_collection": false,
+              "sort_order": 39,
+              "category_seo_url": "men-rider-collection",
+              "childs": []
+            },
+            {
+              "category_id": 291,
+              "parent_id": 33,
+              "styles": {
+                "color": "",
+                "dark_mode_color": "",
+                "font_size": "",
+                "padding_top": "",
+                "padding_bottom": ""
+              },
+              "name": "Denim",
+              "image": "",
+              "is_collection": false,
+              "sort_order": 40,
+              "category_seo_url": "men-denim",
+              "childs": []
+            },
+            {
+              "category_id": 274,
+              "parent_id": 33,
+              "styles": {
+                "color": "#ef4992",
+                "dark_mode_color": "#ef4992",
+                "font_size": "",
+                "padding_top": "",
+                "padding_bottom": ""
+              },
+              "name": "Sale 30% To 50%",
+              "image": "",
+              "is_collection": false,
+              "sort_order": 100,
+              "category_seo_url": "sale-30-50-percent-for-men",
+              "childs": []
+            },
+            {
+              "category_id": "category_id=33&is_sale_category=1",
+              "parent_id": "33",
+              "p_id": "33",
+              "name": "SALE",
+              "description": "",
+              "sort_order": 0,
+              "category_seo_url": "men?is_sale_category=1",
+              "is_sale_category": 1,
+              "styles": {
+                "padding_top": "30",
+                "padding_bottom": "5",
+                "color": "#ef4992",
+                "dark_mode_color": "#ef4992",
+                "font_size": "45"
+              },
+              "childs": [
+                {
+                  "c_id": 156,
+                  "p_id": 33,
+                  "name": "Clothing",
+                  "image": "",
+                  "is_collection": false,
+                  "sort_order": 0,
+                  "is_sale_category": 1,
+                  "category_seo_url": "men-clothing?is_sale_category=1",
+                  "styles": {
+                    "padding_top": "5",
+                    "padding_bottom": "5",
+                    "color": "#ef4992",
+                    "dark_mode_color": "#ef4992"
+                  },
+                  "category_id": "category_id=156&is_sale_category=1",
+                  "parent_id": "category_id=33&is_sale_category=1",
+                  "childs": [
+                    {
+                      "category_id": "category_id=156&is_sale_category=1",
+                      "parent_id": 0,
+                      "name": "All",
+                      "description": "",
+                      "sort_order": 0,
+                      "category_seo_url": "men-clothing?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "is_sale_category": 1
+                    },
+                    {
+                      "c_id": 224,
+                      "p_id": 156,
+                      "name": "Vest",
+                      "image": "catalog/Category/Printed-Vest (3).jpg",
+                      "is_collection": false,
+                      "sort_order": 0,
+                      "is_sale_category": 1,
+                      "category_seo_url": "men-vest?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "category_id": "category_id=224&is_sale_category=1",
+                      "parent_id": "category_id=156&is_sale_category=1",
+                      "childs": []
+                    },
+                    {
+                      "c_id": 207,
+                      "p_id": 156,
+                      "name": "Blazers",
+                      "image": "",
+                      "is_collection": false,
+                      "sort_order": 0,
+                      "is_sale_category": 1,
+                      "category_seo_url": "blazers?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "category_id": "category_id=207&is_sale_category=1",
+                      "parent_id": "category_id=156&is_sale_category=1",
+                      "childs": []
+                    },
+                    {
+                      "c_id": 61,
+                      "p_id": 156,
+                      "name": "Shirts",
+                      "image": "catalog/products/2021-12/39221/White/TEN11-Men-Long-Sleeves-Shirt (12).jpg",
+                      "is_collection": false,
+                      "sort_order": 0,
+                      "is_sale_category": 1,
+                      "category_seo_url": "men-shirts?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "category_id": "category_id=61&is_sale_category=1",
+                      "parent_id": "category_id=156&is_sale_category=1",
+                      "childs": []
+                    },
+                    {
+                      "c_id": 178,
+                      "p_id": 156,
+                      "name": "Linen",
+                      "image": "",
+                      "is_collection": false,
+                      "sort_order": 1,
+                      "is_sale_category": 1,
+                      "category_seo_url": "men-linen?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "category_id": "category_id=178&is_sale_category=1",
+                      "parent_id": "category_id=156&is_sale_category=1",
+                      "childs": []
+                    },
+                    {
+                      "c_id": 92,
+                      "p_id": 156,
+                      "name": "Polo Shirts",
+                      "image": "catalog/products/2021.09/38170/New/Men-Short Sleeves-Fitted Polo-Shirt (5).jpg",
+                      "is_collection": false,
+                      "sort_order": 1,
+                      "is_sale_category": 1,
+                      "category_seo_url": "men-polo-shirts?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "category_id": "category_id=92&is_sale_category=1",
+                      "parent_id": "category_id=156&is_sale_category=1",
+                      "childs": []
+                    },
+                    {
+                      "c_id": 63,
+                      "p_id": 156,
+                      "name": "T-Shirts",
+                      "image": "catalog/products/2021 copy 2.11/38527/Men-Short Sleeves-Printed T-Shirt (5).jpg",
+                      "is_collection": false,
+                      "sort_order": 2,
+                      "is_sale_category": 1,
+                      "category_seo_url": "men-t-shirts?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "category_id": "category_id=63&is_sale_category=1",
+                      "parent_id": "category_id=156&is_sale_category=1",
+                      "childs": []
+                    },
+                    {
+                      "c_id": 60,
+                      "p_id": 156,
+                      "name": "Jackets",
+                      "image": "catalog/products/2022-01/39885/Men-Long-Sleeves-Jacket (3).jpg",
+                      "is_collection": false,
+                      "sort_order": 3,
+                      "is_sale_category": 1,
+                      "category_seo_url": "men-Jackets?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "category_id": "category_id=60&is_sale_category=1",
+                      "parent_id": "category_id=156&is_sale_category=1",
+                      "childs": []
+                    },
+                    {
+                      "c_id": 72,
+                      "p_id": 156,
+                      "name": "Hoodies &amp; Sweatshirts",
+                      "image": "catalog/products/2021-12/39329/Men-Long-Sleeves-Sweater Shirt (10).jpg",
+                      "is_collection": false,
+                      "sort_order": 4,
+                      "is_sale_category": 1,
+                      "category_seo_url": "men-hoodies-sweatshirts?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "category_id": "category_id=72&is_sale_category=1",
+                      "parent_id": "category_id=156&is_sale_category=1",
+                      "childs": []
+                    },
+                    {
+                      "c_id": 96,
+                      "p_id": 156,
+                      "name": "Cardigans",
+                      "image": "",
+                      "is_collection": false,
+                      "sort_order": 5,
+                      "is_sale_category": 1,
+                      "category_seo_url": "men-cardigans?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "category_id": "category_id=96&is_sale_category=1",
+                      "parent_id": "category_id=156&is_sale_category=1",
+                      "childs": []
+                    },
+                    {
+                      "c_id": 68,
+                      "p_id": 156,
+                      "name": "Sportswear",
+                      "image": "",
+                      "is_collection": false,
+                      "sort_order": 7,
+                      "is_sale_category": 1,
+                      "category_seo_url": "men-sportswear?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "category_id": "category_id=68&is_sale_category=1",
+                      "parent_id": "category_id=156&is_sale_category=1",
+                      "childs": []
+                    },
+                    {
+                      "c_id": 62,
+                      "p_id": 156,
+                      "name": "Trousers",
+                      "image": "catalog/products/2021.10/38235/Ivory/Men-Slim-Crop-Chino-Pants (15).jpg",
+                      "is_collection": false,
+                      "sort_order": 8,
+                      "is_sale_category": 1,
+                      "category_seo_url": "men-trousers?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "category_id": "category_id=62&is_sale_category=1",
+                      "parent_id": "category_id=156&is_sale_category=1",
+                      "childs": []
+                    },
+                    {
+                      "c_id": 24,
+                      "p_id": 156,
+                      "name": "Jeans",
+                      "image": "catalog/products/2021-12/39492/Men-Slim-Fit-Jeans (1).jpg",
+                      "is_collection": false,
+                      "sort_order": 9,
+                      "is_sale_category": 1,
+                      "category_seo_url": "men-jeans?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "category_id": "category_id=24&is_sale_category=1",
+                      "parent_id": "category_id=156&is_sale_category=1",
+                      "childs": []
+                    },
+                    {
+                      "c_id": 66,
+                      "p_id": 156,
+                      "name": "Shorts",
+                      "image": "catalog/products/2022-01/39902/Khaki/Men-Chino-Shorts (26).jpg",
+                      "is_collection": false,
+                      "sort_order": 10,
+                      "is_sale_category": 1,
+                      "category_seo_url": "men-shorts?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "category_id": "category_id=66&is_sale_category=1",
+                      "parent_id": "category_id=156&is_sale_category=1",
+                      "childs": []
+                    },
+                    {
+                      "c_id": 107,
+                      "p_id": 156,
+                      "name": "Boxers",
+                      "image": "catalog/products/2021-01/33034/New/Ten11-Men-Boxers (11).jpg",
+                      "is_collection": false,
+                      "sort_order": 11,
+                      "is_sale_category": 1,
+                      "category_seo_url": "men-boxers?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "category_id": "category_id=107&is_sale_category=1",
+                      "parent_id": "category_id=156&is_sale_category=1",
+                      "childs": []
+                    }
+                  ]
+                },
+                {
+                  "c_id": 59,
+                  "p_id": 33,
+                  "name": "Shoes",
+                  "image": "",
+                  "is_collection": false,
+                  "sort_order": 12,
+                  "is_sale_category": 1,
+                  "category_seo_url": "men-shoes?is_sale_category=1",
+                  "styles": {
+                    "padding_top": "5",
+                    "padding_bottom": "5",
+                    "color": "#ef4992",
+                    "dark_mode_color": "#ef4992"
+                  },
+                  "category_id": "category_id=59&is_sale_category=1",
+                  "parent_id": "category_id=33&is_sale_category=1",
+                  "childs": [
+                    {
+                      "category_id": "category_id=59&is_sale_category=1",
+                      "parent_id": 0,
+                      "name": "All",
+                      "description": "",
+                      "sort_order": 0,
+                      "category_seo_url": "men-shoes?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "is_sale_category": 1
+                    },
+                    {
+                      "c_id": 106,
+                      "p_id": 59,
+                      "name": "Sandals",
+                      "image": "catalog/products/2021-08/37883/Men-Sandals (4).jpg",
+                      "is_collection": false,
+                      "sort_order": 0,
+                      "is_sale_category": 1,
+                      "category_seo_url": "men-sandals?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "category_id": "category_id=106&is_sale_category=1",
+                      "parent_id": "category_id=59&is_sale_category=1",
+                      "childs": []
+                    },
+                    {
+                      "c_id": 214,
+                      "p_id": 59,
+                      "name": "Shoe Insoles",
+                      "image": "",
+                      "is_collection": false,
+                      "sort_order": 0,
+                      "is_sale_category": 1,
+                      "category_seo_url": "shoe-insoles?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "category_id": "category_id=214&is_sale_category=1",
+                      "parent_id": "category_id=59&is_sale_category=1",
+                      "childs": []
+                    },
+                    {
+                      "c_id": 145,
+                      "p_id": 59,
+                      "name": "Sneakers",
+                      "image": "catalog/products/2021-12/39257/TEN11-Men Sneakers (1).jpg",
+                      "is_collection": false,
+                      "sort_order": 0,
+                      "is_sale_category": 1,
+                      "category_seo_url": "men-sneakers?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "category_id": "category_id=145&is_sale_category=1",
+                      "parent_id": "category_id=59&is_sale_category=1",
+                      "childs": []
+                    }
+                  ]
+                },
+                {
+                  "c_id": 20,
+                  "p_id": 33,
+                  "name": "Accessories",
+                  "image": "catalog/Category/acc_.jpg",
+                  "is_collection": false,
+                  "sort_order": 13,
+                  "is_sale_category": 1,
+                  "category_seo_url": "accessories?is_sale_category=1",
+                  "styles": {
+                    "padding_top": "5",
+                    "padding_bottom": "5",
+                    "color": "#ef4992",
+                    "dark_mode_color": "#ef4992"
+                  },
+                  "category_id": "category_id=20&is_sale_category=1",
+                  "parent_id": "category_id=33&is_sale_category=1",
+                  "childs": [
+                    {
+                      "category_id": "category_id=20&is_sale_category=1",
+                      "parent_id": 0,
+                      "name": "All",
+                      "description": "",
+                      "sort_order": 0,
+                      "category_seo_url": "accessories?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "is_sale_category": 1
+                    },
+                    {
+                      "c_id": 98,
+                      "p_id": 20,
+                      "name": "Bags",
+                      "image": "catalog/products/2022-01/39887/TEN11-Leather Crossbody-Bag (5).jpg",
+                      "is_collection": false,
+                      "sort_order": 0,
+                      "is_sale_category": 1,
+                      "category_seo_url": "men-bags?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "category_id": "category_id=98&is_sale_category=1",
+                      "parent_id": "category_id=20&is_sale_category=1",
+                      "childs": []
+                    },
+                    {
+                      "c_id": 210,
+                      "p_id": 20,
+                      "name": "Luggage",
+                      "image": "",
+                      "is_collection": false,
+                      "sort_order": 0,
+                      "is_sale_category": 1,
+                      "category_seo_url": "men-luggage?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "category_id": "category_id=210&is_sale_category=1",
+                      "parent_id": "category_id=20&is_sale_category=1",
+                      "childs": []
+                    },
+                    {
+                      "c_id": 64,
+                      "p_id": 20,
+                      "name": "Caps &amp; Hats",
+                      "image": "catalog/products/2021-12/39481/Black/Quilted-Bucket-Hat (1).jpg",
+                      "is_collection": false,
+                      "sort_order": 0,
+                      "is_sale_category": 1,
+                      "category_seo_url": "caps-hats?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "category_id": "category_id=64&is_sale_category=1",
+                      "parent_id": "category_id=20&is_sale_category=1",
+                      "childs": []
+                    },
+                    {
+                      "c_id": 105,
+                      "p_id": 20,
+                      "name": "Socks",
+                      "image": "catalog/products/2022-01/40172/Sock-Sets (2).jpg",
+                      "is_collection": false,
+                      "sort_order": 0,
+                      "is_sale_category": 1,
+                      "category_seo_url": "socks?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "category_id": "category_id=105&is_sale_category=1",
+                      "parent_id": "category_id=20&is_sale_category=1",
+                      "childs": []
+                    },
+                    {
+                      "c_id": 26,
+                      "p_id": 20,
+                      "name": "Backpacks",
+                      "image": "catalog/products/2021.03/35618/Ten11-Backpack-Bags  (2).jpg",
+                      "is_collection": false,
+                      "sort_order": 1,
+                      "is_sale_category": 1,
+                      "category_seo_url": "backpacks?is_sale_category=1",
+                      "styles": {
+                        "padding_top": "5",
+                        "padding_bottom": "5",
+                        "color": "#ef4992",
+                        "dark_mode_color": "#ef4992"
+                      },
+                      "category_id": "category_id=26&is_sale_category=1",
+                      "parent_id": "category_id=20&is_sale_category=1",
+                      "childs": []
+                    }
+                  ]
+                },
+                {
+                  "c_id": 266,
+                  "p_id": 33,
+                  "name": "Rider Collection",
+                  "image": "",
+                  "is_collection": false,
+                  "sort_order": 39,
+                  "is_sale_category": 1,
+                  "category_seo_url": "men-rider-collection?is_sale_category=1",
+                  "styles": {
+                    "padding_top": "5",
+                    "padding_bottom": "5",
+                    "color": "#ef4992",
+                    "dark_mode_color": "#ef4992"
+                  },
+                  "category_id": "category_id=266&is_sale_category=1",
+                  "parent_id": "category_id=33&is_sale_category=1",
+                  "childs": []
+                },
+                {
+                  "c_id": 291,
+                  "p_id": 33,
+                  "name": "Denim",
+                  "image": "",
+                  "is_collection": false,
+                  "sort_order": 40,
+                  "is_sale_category": 1,
+                  "category_seo_url": "men-denim?is_sale_category=1",
+                  "styles": {
+                    "padding_top": "5",
+                    "padding_bottom": "5",
+                    "color": "#ef4992",
+                    "dark_mode_color": "#ef4992"
+                  },
+                  "category_id": "category_id=291&is_sale_category=1",
+                  "parent_id": "category_id=33&is_sale_category=1",
+                  "childs": []
+                },
+                {
+                  "c_id": 274,
+                  "p_id": 33,
+                  "name": "Sale 30% To 50%",
+                  "image": "",
+                  "is_collection": false,
+                  "sort_order": 100,
+                  "is_sale_category": 1,
+                  "category_seo_url": "sale-30-50-percent-for-men?is_sale_category=1",
+                  "styles": {
+                    "padding_top": "5",
+                    "padding_bottom": "5",
+                    "color": "#ef4992",
+                    "dark_mode_color": "#ef4992"
+                  },
+                  "category_id": "category_id=274&is_sale_category=1",
+                  "parent_id": "category_id=33&is_sale_category=1",
+                  "childs": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category_id": 114,
+          "parent_id": 0,
+          "styles": {
+            "color": "#000000",
+            "dark_mode_color": "#cccccc",
+            "font_size": "",
+            "padding_top": "",
+            "padding_bottom": ""
+          },
+          "name": "Boys",
+          "image": "catalog/Category/boys.jpg",
+          "is_collection": false,
+          "sort_order": 3,
+          "category_seo_url": "boys",
+          "childs": [
+            {
+              "category_id": 123,
+              "parent_id": 114,
+              "styles": {
+                "color": "#000000",
+                "dark_mode_color": "#cccccc",
+                "font_size": "",
+                "padding_top": "",
+                "padding_bottom": ""
+              },
+              "name": "New In",
+              "image": "",
+              "is_collection": false,
+              "sort_order": -10,
+              "category_seo_url": "boys-new-in",
+              "childs": []
+            },
+            {
+              "category_id": 158,
+              "parent_id": 114,
+              "styles": {
+                "color": "#000000",
+                "dark_mode_color": "#cccccc",
+                "font_size": "",
+                "padding_top": "",
+                "padding_bottom": ""
+              },
+              "name": "Clothing",
+              "image": "",
+              "is_collection": false,
+              "sort_order": 0,
+              "category_seo_url": "boy-clothing",
+              "childs": [
+                {
+                  "category_id": 158,
+                  "parent_id": 0,
+                  "name": "All",
+                  "description": "",
+                  "sort_order": 0,
+                  "category_seo_url": "boy-clothing",
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  }
+                },
+                {
+                  "category_id": 124,
+                  "parent_id": 158,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Shirts",
+                  "image": "catalog/products/2021-06/36288/New/Blue/Kids-Long-Sleeves-Checked-Shirt (12).jpg",
+                  "is_collection": false,
+                  "sort_order": 1,
+                  "category_seo_url": "boys-shirts",
+                  "childs": []
+                },
+                {
+                  "category_id": 119,
+                  "parent_id": 158,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "T-Shirt",
+                  "image": "catalog/products/2021-12/38602/Kids-Short-Sleeves-Printed Block-T-Shirt (5).jpg",
+                  "is_collection": false,
+                  "sort_order": 2,
+                  "category_seo_url": "boys-t-shirt",
+                  "childs": []
+                },
+                {
+                  "category_id": 125,
+                  "parent_id": 158,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Jackets",
+                  "image": "catalog/products/2022-01/39094/Kids-Long Sleeves-Sweater Hoodies-Jacket (1).jpg",
+                  "is_collection": false,
+                  "sort_order": 3,
+                  "category_seo_url": "boys-jackets",
+                  "childs": []
+                },
+                {
+                  "category_id": 121,
+                  "parent_id": 158,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Hoodies &amp; Sweatshirts",
+                  "image": "catalog/products/2022-01/38914/Kids-Long-Sleeves-Printed Sweater-Shirt (1).jpg",
+                  "is_collection": false,
+                  "sort_order": 4,
+                  "category_seo_url": "boys-hoodies-sweatshirts",
+                  "childs": []
+                },
+                {
+                  "category_id": 116,
+                  "parent_id": 158,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Trousers",
+                  "image": "catalog/products/2021.09/38018/Kids-Khaki-Pants (7).jpg",
+                  "is_collection": false,
+                  "sort_order": 7,
+                  "category_seo_url": "boys-pants",
+                  "childs": []
+                },
+                {
+                  "category_id": 120,
+                  "parent_id": 158,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Shorts",
+                  "image": "catalog/products/2021.09/38024/Kids-Khaki-Shorts (1).jpg",
+                  "is_collection": false,
+                  "sort_order": 9,
+                  "category_seo_url": "boys-shorts",
+                  "childs": []
+                }
+              ]
+            },
+            {
+              "category_id": 163,
+              "parent_id": 114,
+              "styles": {
+                "color": "#000000",
+                "dark_mode_color": "#cccccc",
+                "font_size": "",
+                "padding_top": "",
+                "padding_bottom": ""
+              },
+              "name": "Accessories",
+              "image": "",
+              "is_collection": false,
+              "sort_order": 7,
+              "category_seo_url": "boy-accessories",
+              "childs": []
+            },
+            {
+              "category_id": 130,
+              "parent_id": 114,
+              "styles": {
+                "color": "#000000",
+                "dark_mode_color": "#cccccc",
+                "font_size": "",
+                "padding_top": "",
+                "padding_bottom": ""
+              },
+              "name": "Shoes",
+              "image": "",
+              "is_collection": false,
+              "sort_order": 15,
+              "category_seo_url": "boys-shoes",
+              "childs": [
+                {
+                  "category_id": 130,
+                  "parent_id": 0,
+                  "name": "All",
+                  "description": "",
+                  "sort_order": 0,
+                  "category_seo_url": "boys-shoes",
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  }
+                },
+                {
+                  "category_id": 151,
+                  "parent_id": 130,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Sneakers",
+                  "image": "catalog/products/2021 copy 2.11/38516/Kids-Sport-Sneakers (3).jpg",
+                  "is_collection": false,
+                  "sort_order": 0,
+                  "category_seo_url": "boy-sneakers",
+                  "childs": []
+                }
+              ]
+            },
+            {
+              "category_id": 276,
+              "parent_id": 114,
+              "styles": {
+                "color": "#ef4992",
+                "dark_mode_color": "#ef4992",
+                "font_size": "",
+                "padding_top": "",
+                "padding_bottom": ""
+              },
+              "name": "Sale 30% To 50%",
+              "image": "",
+              "is_collection": false,
+              "sort_order": 100,
+              "category_seo_url": "sale-30-50-percent-for-boy",
+              "childs": []
+            }
+          ]
+        },
+        {
+          "category_id": 18,
+          "parent_id": 0,
+          "styles": {
+            "color": "#000000",
+            "dark_mode_color": "#cccccc",
+            "font_size": "",
+            "padding_top": "",
+            "padding_bottom": ""
+          },
+          "name": "Girls",
+          "image": "catalog/Category/girls.jpg",
+          "is_collection": false,
+          "sort_order": 4,
+          "category_seo_url": "girls",
+          "childs": [
+            {
+              "category_id": 127,
+              "parent_id": 18,
+              "styles": {
+                "color": "#000000",
+                "dark_mode_color": "#cccccc",
+                "font_size": "",
+                "padding_top": "",
+                "padding_bottom": ""
+              },
+              "name": "New In",
+              "image": "",
+              "is_collection": false,
+              "sort_order": -1,
+              "category_seo_url": "girls-new-in",
+              "childs": []
+            },
+            {
+              "category_id": 159,
+              "parent_id": 18,
+              "styles": {
+                "color": "#000000",
+                "dark_mode_color": "#cccccc",
+                "font_size": "",
+                "padding_top": "",
+                "padding_bottom": ""
+              },
+              "name": "Clothing",
+              "image": "",
+              "is_collection": false,
+              "sort_order": 0,
+              "category_seo_url": "girl-clothing",
+              "childs": [
+                {
+                  "category_id": 159,
+                  "parent_id": 0,
+                  "name": "All",
+                  "description": "",
+                  "sort_order": 0,
+                  "category_seo_url": "girl-clothing",
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  }
+                },
+                {
+                  "category_id": 167,
+                  "parent_id": 159,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Cardigan",
+                  "image": "catalog/products/2021-05/36255/new/Kids-Long-Sleeves-Cardigan (11).jpg",
+                  "is_collection": false,
+                  "sort_order": 0,
+                  "category_seo_url": "girls-cardigan",
+                  "childs": []
+                },
+                {
+                  "category_id": 91,
+                  "parent_id": 159,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Crop Tops",
+                  "image": "catalog/products/2021.10/38272/Kids-Ribbed-Top (2).jpg",
+                  "is_collection": false,
+                  "sort_order": 0,
+                  "category_seo_url": "girls-top",
+                  "childs": []
+                },
+                {
+                  "category_id": 128,
+                  "parent_id": 159,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Skirt",
+                  "image": "catalog/products/2022-01/39386/Kids-Denim-Midi Skirt (1).jpg",
+                  "is_collection": false,
+                  "sort_order": 0,
+                  "category_seo_url": "girls-skirts",
+                  "childs": []
+                },
+                {
+                  "category_id": 131,
+                  "parent_id": 159,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Jeans",
+                  "image": "catalog/products/2022-01/39711/Kids-High-Waist-Denim Long-Pants (1).jpg",
+                  "is_collection": false,
+                  "sort_order": 0,
+                  "category_seo_url": "girls-jeans",
+                  "childs": []
+                },
+                {
+                  "category_id": 85,
+                  "parent_id": 159,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Shirts",
+                  "image": "catalog/products/2021-05/32695/Kids-Long-Sleeves Denim-Shirt (1).jpg",
+                  "is_collection": false,
+                  "sort_order": 1,
+                  "category_seo_url": "girls-shirts",
+                  "childs": []
+                },
+                {
+                  "category_id": 84,
+                  "parent_id": 159,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "T-Shirt",
+                  "image": "catalog/products/2021.03/36148/New/Kids-Short-Sleeves-Ribbed-T-Shirt (6).jpg",
+                  "is_collection": false,
+                  "sort_order": 2,
+                  "category_seo_url": "girls-t-shirts",
+                  "childs": []
+                },
+                {
+                  "category_id": 86,
+                  "parent_id": 159,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Jackets",
+                  "image": "catalog/products/2022-01/40135/Kids-Long-Sleeves Ruffled-Denim Jacket (1).jpg",
+                  "is_collection": false,
+                  "sort_order": 3,
+                  "category_seo_url": "girls-jackets",
+                  "childs": []
+                },
+                {
+                  "category_id": 88,
+                  "parent_id": 159,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Hoodies &amp; Sweatshirts",
+                  "image": "catalog/products/2021 copy 2.11/38571/Kids-Long-Sleeves-Printed-Sweater-Shirt (1).jpg",
+                  "is_collection": false,
+                  "sort_order": 4,
+                  "category_seo_url": "girls-hoodies-sweatshirts",
+                  "childs": []
+                },
+                {
+                  "category_id": 87,
+                  "parent_id": 159,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Jumpsuits",
+                  "image": "catalog/products/2021-07/37845/Kids-Denim-Jumpsuits (1).jpg",
+                  "is_collection": false,
+                  "sort_order": 5,
+                  "category_seo_url": "girls-jumpsuits",
+                  "childs": []
+                },
+                {
+                  "category_id": 83,
+                  "parent_id": 159,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Dresses",
+                  "image": "catalog/products/2021-05/32730/New/Kids-Over-Printed-Jersey-Dress (6).jpg",
+                  "is_collection": false,
+                  "sort_order": 6,
+                  "category_seo_url": "girls-dresses",
+                  "childs": []
+                },
+                {
+                  "category_id": 113,
+                  "parent_id": 159,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Trousers",
+                  "image": "catalog/products/2021.09/38102/Kids-Pants (1).jpg",
+                  "is_collection": false,
+                  "sort_order": 6,
+                  "category_seo_url": "girls-pants",
+                  "childs": []
+                },
+                {
+                  "category_id": 90,
+                  "parent_id": 159,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Blouse",
+                  "image": "",
+                  "is_collection": false,
+                  "sort_order": 7,
+                  "category_seo_url": "girls-blouse",
+                  "childs": []
+                },
+                {
+                  "category_id": 89,
+                  "parent_id": 159,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Shorts",
+                  "image": "catalog/products/2021-08/37979/Kids-Denim-Shorts (1).jpg",
+                  "is_collection": false,
+                  "sort_order": 8,
+                  "category_seo_url": "girls-shorts",
+                  "childs": []
+                }
+              ]
+            },
+            {
+              "category_id": 165,
+              "parent_id": 18,
+              "styles": {
+                "color": "#000000",
+                "dark_mode_color": "#cccccc",
+                "font_size": "",
+                "padding_top": "",
+                "padding_bottom": ""
+              },
+              "name": "Accessories",
+              "image": "",
+              "is_collection": false,
+              "sort_order": 7,
+              "category_seo_url": "girls-accessories",
+              "childs": []
+            },
+            {
+              "category_id": 65,
+              "parent_id": 18,
+              "styles": {
+                "color": "#000000",
+                "dark_mode_color": "#cccccc",
+                "font_size": "",
+                "padding_top": "",
+                "padding_bottom": ""
+              },
+              "name": "Shoes",
+              "image": "",
+              "is_collection": false,
+              "sort_order": 9,
+              "category_seo_url": "girls-shoes",
+              "childs": [
+                {
+                  "category_id": 65,
+                  "parent_id": 0,
+                  "name": "All",
+                  "description": "",
+                  "sort_order": 0,
+                  "category_seo_url": "girls-shoes",
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  }
+                },
+                {
+                  "category_id": 153,
+                  "parent_id": 65,
+                  "styles": {
+                    "color": "#000000",
+                    "dark_mode_color": "#cccccc",
+                    "font_size": "",
+                    "padding_top": "",
+                    "padding_bottom": ""
+                  },
+                  "name": "Sandals",
+                  "image": "",
+                  "is_collection": false,
+                  "sort_order": 0,
+                  "category_seo_url": "girl-sandals",
+                  "childs": []
+                }
+              ]
+            },
+            {
+              "category_id": 277,
+              "parent_id": 18,
+              "styles": {
+                "color": "#ef4992",
+                "dark_mode_color": "#ef4992",
+                "font_size": "",
+                "padding_top": "",
+                "padding_bottom": ""
+              },
+              "name": "Sale 30% To 50%",
+              "image": "",
+              "is_collection": false,
+              "sort_order": 100,
+              "category_seo_url": "sale-30-50-percent-for-girl",
+              "childs": []
+            }
+          ]
+        }
+      ]
+}
+

@@ -4,7 +4,14 @@ import httpClient from '../utils/http-client';
 
 export const usePostStore = defineStore('usePostStore',  {
     state: () => ({
-        _posts: [],
+        _posts: [
+            {
+            id: 0,
+            title: '',
+            body: '',
+            userId: 0,
+        }
+    ],
         _post: {
             id: 0,
             title: '',

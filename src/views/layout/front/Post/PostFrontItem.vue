@@ -2,11 +2,11 @@
 <template>
 
     <!-- <p>{{ isLoading ? "<p>Loading..</p>" : "" }}</p> -->
-        <div>
+        <di>
           <ul v-for="(post, index) in datas" :key="index">
-        <li  @click="getPostId(post.id)">{{ post.title }}</li>
+        <li class="" @click="getPostId(post.id)">{{ post.title }}</li>
         </ul>
-        </div>
+        </di>
  
  
 </template>
